@@ -1,8 +1,14 @@
-- name: "Contact"
+- name: "Misc"
   link: "contact"
 
-- name: "Resume"
+- name: "Publication"
+  link: "pub"
+
+- name: "Research"
+  link: "research"
+
+- name: "Résumé"
   link: "resume.pdf"
 
 - name: "About"
-  link: "/researcher/"
+  link: "/web/"
