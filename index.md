@@ -37,7 +37,7 @@ I'm now interested in the research of 5G techniques and wireless big data.
 ## Advising
 * **Master students**:
 	- Xiaoyi Wang (2015-2017), *now working in China Railyway Fifth Survey and Design Institute Group Co.Ltd. 
-			Xiaoyi Wang’s thesis won the Excellent Master Thesis Prize of School of Computer & Information Technology of Beijing Jiaotong University.*
+			Xiaoyi Wang’s thesis won the **Excellent Master Thesis Prize** of School of Computer & Information Technology of Beijing Jiaotong University.*
 	- Qing Wang (2015-2018, co-advised with Prof. Zhangdui Zhong), 
 	- Li Xu (2016-2019), 
 	- Nian Liu (2017-2020), 
