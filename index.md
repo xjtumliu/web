@@ -2,13 +2,13 @@
 layout: default
 ---
 
-## About Me
+## About me
 
 <img class="profile-picture" src="ml.jpg">
 
-I received the B.Eng and M.Eng degrees from the Xi'an Jiaotong University (XJTU), China, in 2004 and 2007, respectively, both in Electrical Engineering. In 2011, I received the Ph.D degree in Electronical Engineering from the National Institute of Applied Sciences (INSA) in Rennes, France. I am with the Electronics and Telecommunications Institute of Rennes (IETR, UMR 6164) as a postdoctoral researcher. Since January 2015, I have been a faculty member of Beijing Jiaotong University (BJTU). I'm now with the Institute of Information Communication Networks of the School of Computer & Information Technology as an Associate Professor and a Ph.D. supervisor. 
-
-My main research interests include massive MIMO, space-time coding, Turbo receiver, optical fiber communications, physical layer security and Internet of Things.
+I'm an Associated Professor and a Ph.D. supervisor affiliated with the School of Computer & Information Technology of Beijing Jiaotong University. 
+In my research works I was working in the areas of communication theories and techniques, including  massive MIMO, space-time coding, Turbo receiver, optical fiber communications and Internet of Things. 
+I'm now interested in the research of 5G techniques and wireless big data.
 
 ---
 
@@ -22,13 +22,33 @@ My main research interests include massive MIMO, space-time coding, Turbo receiv
 				Xi’an Jiaotong University
 
 ---
+## Skill
 
+* **Telecom**:		
+				massive-MIMO, OFDM, space-time coding, iterative process, channel estimation, signal processing, random access, transceiver design, system optimization, machine-to-machine (M2M) communications, optical fiber communications, physical layer security
+* **Systems**:
+			GSM, GPRS, EDGE, LTE, DVB-T/T2/NGH, DTMB 	
+* **Tools**:	
+			MATLAB, C, C++, Agilent Advanced Design System (ADS)
+* **Language**:	
+		English (fluent), French (fluent), Chinese (mother tongue) 
+
+---
+## Advising
+* **Master students**:
+Xiaoyi Wang (2015-2017), Qing Wang (2015-2018, co-advised with Prof. Zhangdui Zhong), Li Xu (2016-2019), Nian Liu (2017-2020), Yawen Zheng (2017-2020), Lanlan Wei (2017-2019), Baigong Xu (2017-2019), Junxia Zhang (2018-2021), Xiaoyi Han (2018-2021), Jiaxin Ren (2018-2021)
+	- *Xiaoyi Wang’s thesis won the Excellent Master Thesis Prize of School of Computer & Information Technology of Beijing Jiaotong University.*
+
+
+* **Ph.D. student**:
+Participate in the direction (together with Prof. Maryline Hélard and Prof. Fabienne Nouvel) of the research of Miss Rida El Chall, Ph.D candidate in INSA-Rennes, on the subjects of low-complexity soft-input soft-output MIMO detector and turbo receivers
+
+---
 ## Contact
  
-### Email
-[xjtumliu@hotmail.com](mailto:xjtumliu@hotmail.com)
+Email: mingliu [AT] bjtu.edu.cn 
 
-### Mailing Address
+### Address
 
 > Beijing Jiaotong University
 >
@@ -36,3 +56,4 @@ My main research interests include massive MIMO, space-time coding, Turbo receiv
 >
 > Beijing, 100044,
 > P. R. China
+

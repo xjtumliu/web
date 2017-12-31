@@ -13,7 +13,10 @@ is_contact: true
 6. **M. Liu**, M. Crussière, M. Hélard and J.-F. Hélard, “Achieving low-complexity maximum-likelihood detection for the 3D MIMO code,” *EURASIP Journal on Wireless Communications and Networking*, 20, pp.1-16, 2014.
 7. **M. Liu**, M. Hélard, M. Crussière and J.-F. Hélard, “Distributed MIMO coding scheme with low decoding complexity for future mobile TV broadcasting,” *IET Electronics Letters*, 48(17):1079–1081, 2012.
 8. **M. Liu**, M. Crussière and J.-F. Hélard, “A novel data-aided channel estimation with reduced complexity for TDS-OFDM systems,” *IEEE Transactions on Broadcasting*, 58(2):247–260, 2012.
-9. G.-P. Wang, K. Xiong, **M. Liu**, F.-F. Gao, and Z.-D. Zhong, "Backscatter communication technology and Internet of Things," *Chinese Journal on Internet of Things*, 1(1):67–75, 2017. 
+9. G.P. Wang, K. Xiong, **M. Liu**, F.F. Gao, and Z.D. Zhong, "Backscatter communication technology and Internet of Things," *Chinese Journal on Internet of Things*, 1(1):67–75, 2017. 
+
+### Book chapter:
+1. Q.Y. Li, Z.D. Zhong, **M. Liu** and W.W. Fang, "Smart Railway Based on Internet of Things." *Big Data Analytics for Sensor-Network Collected Intelligence*, H.-H. Hus, *et. al.* (eds), Elsevier, 2017. [[link](https://www.elsevier.com/books/big-data-analytics-for-sensor-network-collected-intelligence/hsu/978-0-12-809393-1)]
 
 ### Conference papers:
 9. Q. Wang, Z.Y. Zhao, D.S. Miao, Y.T. Zhang, J.Y. Sun, **M. Liu** and Z.D. Zhong, “Non-Orthogonal Coded Access for Contention-Based Transmission in 5G,” in *Proc. 2017 IEEE 86th Vehicular Technology Conference (VTC2017-Fall)*, Toronto, Canada, 2017.
@@ -34,3 +37,5 @@ is_contact: true
 24. **M. Liu**, M. Crussière and J.-F. Hélard, “A combined time and frequency algorithm for improved channel estimation in TDS-OFDM,” in *Proc. International Conference on Communications (ICC 2010)*, Cape Town, South Africa, May 2010.
 25. **M. Liu**, M. Crussière and J.-F. Hélard, “A novel iterative data-aided channel estimation for Time Domain Synchronous-OFDM,” in *Proc. 4th International Workshop on Signal Design and its Applications in Communications (IWSDA'09)*, Fukuoka, Japan, Oct. 2009.
 26. **M. Liu**, M. Crussière, J.-F. Hélard and O.P. Pasquero, “Analysis and performance comparison of DVB-T and DTMB systems for terrestrial digital TV,” in *Proc. 11th IEEE International Conference on Communication Systems (ICCS 2008)*, pp. 1–6, Guangzhou, China, Oct. 2008.
+
+<a href="#" class="btn btn-success">Back to Top</a>
