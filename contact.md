@@ -3,19 +3,21 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [xjtumliu@hotmail.com](mailto:xjtumliu@hotmail.com)
 
-* Phone: [+91-123123](tel:+91-123123)
+* Phone: [+86-185 1911 9182](tel:+86-185 1911 9182)
 
 ---
 
 ## Mailing Address
 
-> 221B, Baker Street
+> Beijing Jiaotong University
 >
-> London
+> No.3 Shangyuancun, Haidian District
 >
-> United Kingdom
+> Beijing
+>
+> P. R. China
 
 ---
 
