@@ -5,8 +5,6 @@ is_contact: true
 
 * Email: [xjtumliu@hotmail.com](mailto:xjtumliu@hotmail.com)
 
-%* Phone: [ ](tel: )
-
 ---
 
 ## Mailing Address
