@@ -5,7 +5,7 @@ is_contact: true
 
 * Email: [xjtumliu@hotmail.com](mailto:xjtumliu@hotmail.com)
 
-//* Phone: [+86-185 1911 9182](tel:+86-185 1911 9182)
+%* Phone: [ ](tel: )
 
 ---
 
