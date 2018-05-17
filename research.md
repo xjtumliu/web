@@ -25,6 +25,13 @@ is_contact: true
 		+ Evaluate the proposed schemes on calibrated simulation platform
 
 ---
+### RFID label localization
+*PI*, *03/2018 - 08/2018*
+* <U>Project Objective</U>: Devising deep learning based algorithm to determine the location of RFID labels in the modern automatic dispatch system
+	- Ongoning research works
+		+ Acuqire large amount of RFID signal samples, clean data, annotate labels
+
+---
 ### Machine-to-machine communications via cellular networks
 *Orange Labs project*, **researcher**, *06/2014 – 01/2015*
 * <U>Project Objective</U>: Proposing energy-efficient solutions to deliver M2M communications over the GSM system
