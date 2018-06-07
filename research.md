@@ -25,7 +25,7 @@ is_contact: true
 		+ Evaluate the proposed schemes on calibrated simulation platform
 
 ---
-### RFID label localization
+### AI based RFID localization technique for automated dispatch system
 *PI*, *03/2018 - 08/2018*
 * <U>Project Objective</U>: Devising deep learning based algorithm to determine the location of RFID labels in the modern automatic dispatch system
 	- Ongoning research works
