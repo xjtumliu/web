@@ -29,7 +29,7 @@ is_contact: true
 *PI*, *03/2018 - 08/2018*
 * <U>Project Objective</U>: Devising deep learning based algorithm to determine the location of RFID labels in the modern automatic dispatch system
 	- Ongoning research works
-		+ Acuqire large amount of RFID signal samples, clean data, annotate labels
+		+ Acquire large amount of RFID signal samples, clean data, annotate labels
 		+ Training deep neural networks
 
 ---
