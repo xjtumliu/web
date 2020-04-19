@@ -5,7 +5,7 @@ is_contact: true
 
 ## Publications
 ### Journal papers:
-1. L. Peng, J. Zhang, **M. Liu** and A. Hu, “Deep Learning Based RF Fingerprint Identification Using Differential Constellation Trace Figure,”  IEEE Transactions on Vehicular Technology, vol. 69, no. 1, pp. 1091–1095, 2020. 
+1. L. Peng, J. Zhang, **M. Liu** and A. Hu, “Deep Learning Based RF Fingerprint Identification Using Differential Constellation Trace Figure,”  *IEEE Transactions on Vehicular Technology*, vol. 69, no. 1, pp. 1091–1095, 2020. 
 2. L. Xu, J.Q. Chen, **M. Liu** and X.Y. Wang, “Active Eavesdropping Detection Based on Large-Dimensional Random Matrix Theory for Massive MIMO-Enabled IoT,” *Electronics*, 2019, 8(2), 146. 
 3. L. Peng, G. Li, J. Zhang, R. Woods, **M. Liu** and A. Hu, “An Investigation of Using Loop-back Mechanism for Channel Reciprocity Enhancement in Secret Key Generation,”  *IEEE Transactions on Mobile Computing*, vol. 18, no. 3, pp.507-519, 2019.
 4. L. Peng, **M. Liu**, M. Hélard and S. Haese, “PN-PAM Scheme for Short Range Optical Transmission over SI-POF--An Alternative to Discrete Multi-Tone (DMT) scheme,” *Journal of the European Optical Society*, 13:21, 2017.
@@ -23,8 +23,8 @@ is_contact: true
 2. Q.Y. Li, Z.D. Zhong, **M. Liu** and W.W. Fang, "Smart Railway Based on Internet of Things." *Big Data Analytics for Sensor-Network Collected Intelligence*, H.-H. Hus, *et. al.* (eds), Elsevier, 2017. [[link](https://www.elsevier.com/books/big-data-analytics-for-sensor-network-collected-intelligence/hsu/978-0-12-809393-1)]
 
 ### Conference papers:
-1. M. Zhang, **M. Liu** and Z.D. Zhong, “Neural Network Assisted Active Constellation Extension for PAPR Reduction of OFDM System,”  in Proc. 11th International Conference on. Wireless Communications and Signal Processing (WCSP'19), 2019.
-2. M. Zhang, M. Lou, H. Zhou, Y. Zhang, **M. Liu** and Z.D. Zhong, “Non-Orthogonal Coded Access Based Uplink Grant-Free Transmission for URLLC,”  in Proc. IEEE/CIC International Conference on Communications in China, 2019.
+1. M. Zhang, **M. Liu** and Z.D. Zhong, “Neural Network Assisted Active Constellation Extension for PAPR Reduction of OFDM System,”  in *Proc. 11th International Conference on. Wireless Communications and Signal Processing (WCSP'19)*, 2019.
+2. M. Zhang, M. Lou, H. Zhou, Y. Zhang, **M. Liu** and Z.D. Zhong, “Non-Orthogonal Coded Access Based Uplink Grant-Free Transmission for URLLC,”  in *Proc. IEEE/CIC International Conference on Communications in China (ICCC)*, 2019.
 3. Q. Wang, **M. Liu**, N. Liu and Z.D. Zhong, “On Augmenting UL Connections in Massive MIMO System using Composite Channel Estimation,”  to appear in *Proc. IEEE Global Communications Conference (Globecom)*, 2018.
 4. S. Mu, S. Wu, **M. Liu**, N. Zheng, H. Zhou, Y. Teng, X. Chen, Q. Zhang, Y. Zheng, Z.D. Zhong and H. Guan, “Hybrid Transmission Time Intervals for TCP Slow Start in Mobile Edge Computing System,” to appear in *Proc. IEEE/CIC International Conference on Communications in China (ICCC)*, 2018. 
 5. Q. Wang, Z.Y. Zhao, D.S. Miao, Y.T. Zhang, J.Y. Sun, **M. Liu** and Z.D. Zhong, “Non-Orthogonal Coded Access for Contention-Based Transmission in 5G,” in *Proc. 2017 IEEE 86th Vehicular Technology Conference (VTC2017-Fall)*, Toronto, Canada, 2017.
