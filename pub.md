@@ -16,7 +16,9 @@ is_contact: true
 9. **M. Liu**, M. Crussière, M. Hélard and J.-F. Hélard, “Achieving low-complexity maximum-likelihood detection for the 3D MIMO code,” *EURASIP Journal on Wireless Communications and Networking*, 20, pp.1-16, 2014.
 10. **M. Liu**, M. Hélard, M. Crussière and J.-F. Hélard, “Distributed MIMO coding scheme with low decoding complexity for future mobile TV broadcasting,” *IET Electronics Letters*, 48(17):1079–1081, 2012.
 11. **M. Liu**, M. Crussière and J.-F. Hélard, “A novel data-aided channel estimation with reduced complexity for TDS-OFDM systems,” *IEEE Transactions on Broadcasting*, 58(2):247–260, 2012.
-12. G.P. Wang, K. Xiong, **M. Liu**, F.F. Gao, and Z.D. Zhong, "Backscatter communication technology and Internet of Things," *Chinese Journal on Internet of Things*, 1(1):67–75, 2017. (in Chinese)
+12. G.P. Wang, K. Xiong, **M. Liu**, F.F. Gao, and Z.D. Zhong, “Backscatter communication technology and Internet of Things,” *Chinese Journal on Internet of Things*, 1(1):67–75, 2017. (in Chinese)
+13. **M. Liu**, L. Xu, X. Wang and J. Chen, “Active eavesdropper detection based on large dimension random matrix theory for massive MIMO systems,” *Journal of Beijing Jiaotong University*, vol. 44, no. 2, 2020. (in Chinese)
+14. **M. Liu**, N. Liu, X. Han, L. Peng, H. Fu and Y. Chen, “A RF Fingerprint Based EIoT Device Identification Method,” *Electric Power*, 2021. (in Chinese)
 
 ### Book chapter:
 1. L.A. Geng-Yang, **M. Liu**, Q. Y. Li and R. He, "Introduction of Machine Learning." Chapter in *Applications of Machine Learning in Wireless Communications*, IET, 2019. 
