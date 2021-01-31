@@ -5,6 +5,22 @@ is_contact: true
 
 ## Research Experience
 ---
+### Research on Identification of Wireless IoT Device Based on Device Fingerprint
+*National Science Foundation of China*, **PI**
+* <U>Project Objective</U>: Researching the device fingerprint technique to support new device identification mechanism for IoT devices
+Various Internet of Things (IoT) applications are penetrating into many aspects of our daily life. IoT is integrating with the cutting-edge technologies such as artificial intelligence, big data, and cloud computing to form the cornerstone of the future intelligent living environment. However, due to the openness of the wireless communication medium and the limited hardware and network resources, how to efficiently identify the IoT devices becomes more and more important form both efficiency and security perspectives of the network. This project will research the theory and methodology of identifying the IoT devices using the device fingerprints inherent in wireless devices. 
+	- Robust radio frequency fingerprint (RFF) extraction
+
+		Existing researches on RFF mainly focus on extracting unique features resulted by certain device imperfections (e.g. carrier frequency offset, I/Q imbalances, nonlinearity, frequency response, etc.), and visualizing them through some processing (e.g. Fourier, wavelet, Hilbert-Huang transforms and correlations). Recent advances adopt the machine learning techniques to identify the visualized features. However, most researches considered only one feature. Hence, they are not resilient to the channel uncertainty, and the capacity of identification is limited. This work will propose new machine learning models that integrate multiple signal features in order to achieve higher identification accuracy and robustness. 
+	- Bidirectional device identification based on RFF for IoT scenarios
+
+		Existing researches on Radio Frequency Fingerprint (RFF) mainly focus on unilateral device identification in one communication direction. However, in practice, it is difficult for IoT devices to identify the base station due to their hardware insufficiencies. This work investigates the bidirectional device identification method for the IoT application scenarios. The inherent reciprocity of the communication pair's RFFs is studied and exploited to offload the learning process, which is supposed to be proceeded by the IoT device, to the base station. The autoencoder-based RFF reciprocal conversion network is devised to predict the downlink RFF based on the data samples acquired in the uplink, so that the training process of the downlink identification network can be accomplished by the base station and the computational complexity of IoT devices is reduced. Evaluations with real-world data show that, the IoT devices can achieve a high accuracy to identify the base station using the identification network trained by the base station. 
+	- RFF impersonation by adversarial learning and countermeasures 
+
+
+Specifically, the project will study the use of machine learning techniques to integrate signal features of different dimensions to build efficient device fingerprints. With this basis, the project will investigate the correspondence between the device fingerprints of the communication parties, and propose a feasible technology to realize the two-way identification of the two parties by using the reciprocal characteristics of the device fingerprints. Furthermore, this project will study the possibility that malicious users masquerade the legitimate users’ device fingerprints, and propose countermeasures to enhance the security of device fingerprint. Through the aforementioned researches, the project aims to significantly improve the reliability of IoT device identification to enhance the security of the wireless communication phase, and ultimately to reinforce the overall security of IoT.
+
+
 ### Reliable transmission techniques in the massive MIMO systems for 5G
 *National Science Foundation of China*, **PI**, *01/2016 – 12/2018*
 * <U>Project Objective</U>: Researching key physical layer techniques for reliable and scalable massive MIMO system
