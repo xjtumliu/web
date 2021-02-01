@@ -15,7 +15,7 @@ Various Internet of Things (IoT) applications are penetrating into many aspects 
 
 	<figure>
 	    <img class="Rounded center" src="DCTF.jpg" style="width:120px;" />
-	    <figcaption>An example of differential constellation trace figure.</figcaption>
+	    <figcaption><U>An example of differential constellation trace figure</U>.</figcaption>
 	</figure>
 
 	- **Bidirectional device identification based on RFF for IoT scenarios**
@@ -24,7 +24,7 @@ Various Internet of Things (IoT) applications are penetrating into many aspects 
 
 	<figure>
 	    <img class="Rounded center" src="bidirectional.png" style="width:400px;" />
-	    <figcaption>A bidirectional device identification framework.</figcaption>
+	    <figcaption><U>A bidirectional device identification framework</U>.</figcaption>
 	</figure>
 
 	- **RFF impersonation and countermeasures**
@@ -32,7 +32,7 @@ Various Internet of Things (IoT) applications are penetrating into many aspects 
 		RFF may be impersonated by adversaries to circumvent the authentication method. Anti-spoofing techniques (e.g. liveness detection) has been investigated for the similar authentication mechanisms such as facial or fingerprint recognitions. However, the detection of RFF impersonation attacks is highly insufficient in the existing research. This work will study the possibility that malicious users impersonate the legitimate users' RFF by adversarial learning. To overcome the problem that each device, including the legitimate users and malicious users, has unique hardware imperfections in both transmission and reception circuits and the response caused by these imperfections can hardly be calibrated by the device itself, this work proposes to introduce a cooperative attacker that serves as a 'spectator' or 'critic' to help the malicious users to impersonate their RFFs. A Generative Adversarial Network (GAN) based cooperative RFF spoofing method is proposed, which can generate high fidelity RFFs that look alike to the targeted legitimate users. Countermeasures will be proposed to effectively detect the RFF spoofing or, alternatively, increase the sophistication of RFF that can invalidate the RFF impersonation attacks.  
 	<figure>
 	    <img class='Rounded center' src='spoofing_attack.png' alt='spoofing attack' style="width:400px;" />
-	    <figcaption>Spoofing attack with cooperative attacker.</figcaption>
+	    <figcaption><U>Spoofing attack with cooperative attacker</U>.</figcaption>
 	</figure>
 	
 
