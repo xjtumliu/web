@@ -14,7 +14,7 @@ Various Internet of Things (IoT) applications are penetrating into many aspects 
 		Existing researches on RFF mainly focus on extracting unique features resulted by certain device imperfections (e.g. carrier frequency offset, I/Q imbalances, nonlinearity, frequency response, etc.), and visualizing them through some processing (e.g. Fourier, wavelet, Hilbert-Huang transforms and correlations). Recent advances adopt the machine learning techniques to identify the visualized features. However, most researches considered only one feature. Hence, they are not resilient to the channel uncertainty, and the capacity of identification is limited. This work will propose new machine learning models that integrate multiple signal features in order to achieve higher identification accuracy and robustness. 
 
 	<figure>
-	    <img class="Rounded center" src="DCTF.jpg" style="width:120px;" />
+	    <img class="center" src="DCTF.jpg" style="width:120px;" />
 	    <figcaption><U>An example of differential constellation trace figure</U>.</figcaption>
 	</figure>
 
@@ -23,7 +23,7 @@ Various Internet of Things (IoT) applications are penetrating into many aspects 
 		Existing researches on Radio Frequency Fingerprint (RFF) mainly focus on unilateral device identification in one communication direction. However, in practice, it is difficult for IoT devices to identify the base station due to their hardware insufficiencies. This work investigates the bidirectional device identification method for the IoT application scenarios. The inherent reciprocity of the communication pair's RFFs is studied and exploited to offload the learning process, which is supposed to be proceeded by the IoT device, to the base station. The autoencoder-based RFF reciprocal conversion network is devised to predict the downlink RFF based on the data samples acquired in the uplink, so that the training process of the downlink identification network can be accomplished by the base station and the computational complexity of IoT devices is reduced. Evaluations with real-world data show that, the IoT devices can achieve a high accuracy to identify the base station using the identification network trained by the base station. 
 
 	<figure>
-	    <img class="Rounded center" src="bidirectional.png" style="width:550px;" />
+	    <img class="center" src="bidirectional.png" style="width:550px;" />
 	    <figcaption><U>A bidirectional device identification framework</U>.</figcaption>
 	</figure>
 
@@ -31,11 +31,11 @@ Various Internet of Things (IoT) applications are penetrating into many aspects 
 
 		RFF may be impersonated by adversaries to circumvent the authentication method. Anti-spoofing techniques (e.g. liveness detection) has been investigated for the similar authentication mechanisms such as facial or fingerprint recognitions. However, the detection of RFF impersonation attacks is highly insufficient in the existing research. This work will study the possibility that malicious users impersonate the legitimate users' RFF by adversarial learning. To overcome the problem that each device, including the legitimate users and malicious users, has unique hardware imperfections in both transmission and reception circuits and the response caused by these imperfections can hardly be calibrated by the device itself, this work proposes to introduce a cooperative attacker that serves as a 'spectator' or 'critic' to help the malicious users to impersonate their RFFs. A Generative Adversarial Network (GAN) based cooperative RFF spoofing method is proposed, which can generate high fidelity RFFs that look alike to the targeted legitimate users. Countermeasures will be proposed to effectively detect the RFF spoofing or, alternatively, increase the sophistication of RFF that can invalidate the RFF impersonation attacks.  
 	<figure>
-	    <img class='Rounded center' src='spoofing_attack.png' alt='spoofing attack' style="width:400px;" />
+	    <img class='center' src='spoofing_attack.png' alt='spoofing attack' style="width:400px;" />
 	    <figcaption><U>Spoofing attack with cooperative attacker</U>.</figcaption>
 	</figure>
 	
-
+---
 ### Reliable transmission techniques in the massive MIMO systems for 5G
 *National Science Foundation of China*, **PI**, *01/2016 – 12/2018*
 * <U>Project Objective</U>: Researching key physical layer techniques for reliable and scalable massive MIMO system
