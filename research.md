@@ -23,7 +23,7 @@ Various Internet of Things (IoT) applications are penetrating into many aspects 
 		Existing researches on Radio Frequency Fingerprint (RFF) mainly focus on unilateral device identification in one communication direction. However, in practice, it is difficult for IoT devices to identify the base station due to their hardware insufficiencies. This work investigates the bidirectional device identification method for the IoT application scenarios. The inherent reciprocity of the communication pair's RFFs is studied and exploited to offload the learning process, which is supposed to be proceeded by the IoT device, to the base station. The autoencoder-based RFF reciprocal conversion network is devised to predict the downlink RFF based on the data samples acquired in the uplink, so that the training process of the downlink identification network can be accomplished by the base station and the computational complexity of IoT devices is reduced. Evaluations with real-world data show that, the IoT devices can achieve a high accuracy to identify the base station using the identification network trained by the base station. 
 
 	<figure>
-	    <img class="Rounded center" src="bidirectional.png" style="width:400px;" />
+	    <img class="Rounded center" src="bidirectional.png" style="width:550px;" />
 	    <figcaption><U>A bidirectional device identification framework</U>.</figcaption>
 	</figure>
 
