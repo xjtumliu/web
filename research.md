@@ -22,7 +22,7 @@ Various Internet of Things (IoT) applications are penetrating into many aspects 
 	- RFF impersonation and countermeasures 
 
 		RFF may be impersonated by adversaries to circumvent the authentication method. Anti-spoofing techniques (e.g. liveness detection) has been investigated for the similar authentication mechanisms such as facial or fingerprint recognitions. However, the detection of RFF impersonation attacks is highly insufficient in the existing research. This work will study the possibility that malicious users impersonate the legitimate users' RFF by adversarial learning. To overcome the problem that each device, including the legitimate users and malicious users, has unique hardware imperfections in both transmission and reception circuits and the response caused by these imperfections can hardly be calibrated by the device itself, this work proposes to introduce a cooperative attacker that serves as a 'spectator' or 'critic' to help the malicious users to impersonate their RFFs. A Generative Adversarial Network (GAN) based cooperative RFF spoofing method is proposed, which can generate high fidelity RFFs that look alike to the targeted legitimate users. Countermeasures will be proposed to effectively detect the RFF spoofing or, alternatively, increase the sophistication of RFF that can invalidate the RFF impersonation attacks.  
-	<img class="Rounded" src="spoofing_attack.png" style="width:500px;">
+<img class="Rounded" src="spoofing_attack.png" style="width:500px;">
 
 ### Reliable transmission techniques in the massive MIMO systems for 5G
 *National Science Foundation of China*, **PI**, *01/2016 – 12/2018*
