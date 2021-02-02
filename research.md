@@ -7,7 +7,8 @@ is_contact: true
 ---
 ### Research on Identification of Wireless IoT Device Based on Device Fingerprint
 *National Science Foundation of China*, **PI**
-* <U>Project Objective</U>: Researching the device fingerprint technique to support new device identification mechanism for IoT devices
+* <U>Project Objective</U>: Researching the device fingerprint technique to support new device identification mechanism for IoT devices. 
+
 Various Internet of Things (IoT) applications are penetrating into many aspects of our daily life. IoT is integrating with the cutting-edge technologies such as artificial intelligence, big data, and cloud computing to form the cornerstone of the future intelligent living environment. However, due to the openness of the wireless communication medium and the limited hardware and network resources, how to efficiently identify the IoT devices becomes more and more important form both efficiency and security perspectives of the network. This project will research the theory and methodology of identifying the IoT devices using the device fingerprints inherent in wireless devices. 
 	- **Robust radio frequency fingerprint (RFF) extraction**
 
