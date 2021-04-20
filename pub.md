@@ -49,4 +49,8 @@ is_contact: true
 22. **M. Liu**, M. Crussière and J.-F. Hélard, “A novel iterative data-aided channel estimation for Time Domain Synchronous-OFDM,” in *Proc. 4th International Workshop on Signal Design and its Applications in Communications (IWSDA'09)*, Fukuoka, Japan, Oct. 2009.
 23. **M. Liu**, M. Crussière, J.-F. Hélard and O.P. Pasquero, “Analysis and performance comparison of DVB-T and DTMB systems for terrestrial digital TV,” in *Proc. 11th IEEE International Conference on Communication Systems (ICCS 2008)*, pp. 1–6, Guangzhou, China, Oct. 2008.
 
+### Under Submission:
+1. J. Zhang, **M. Liu**, K. Xiong and M. Zhang, “Near-Optimal User Clustering and Power Control for Uplink MISO-NOMA Networks,” submitted to *IEEE Global Communications Conference: Wireless Communications (GLOBECOM 2021)*. 
+2. P. Yin, L. Peng, J. Zhang, **M. Liu**, H. Fu and A. Hu, “LTE Device Identification Based on RF Fingerprint with Multi-Channel Convolutional Neural Network,” submitted to *IEEE Global Communications Conference: Wireless Communications (GLOBECOM 2021)*.
+
 <a href="#" class="btn btn-success">Back to Top</a>
