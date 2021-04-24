@@ -29,9 +29,9 @@ I'm now interested in the application of the recent advances of AI to the fundam
 * **Systems**:
 			GSM, LTE, DVB-T/T2/NGH, DTMB 
 * **AI**: 
-			hands on experience on typical machine learning models, e. g. CNN, auto-encoder, GAN	
+			hands on experience on typical machine learning models, e.g. CNN, auto-encoder, GAN	
 * **Tools**:	
-			MATLAB, Python, C, C++, JAVA, Agilent Advanced Design System (ADS)
+			MATLAB, Python, C, C++, JAVA
 * **Language**:	
 		English (fluent), French (fluent), Chinese (mother tongue) 
 
