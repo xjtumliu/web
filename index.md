@@ -14,12 +14,12 @@ I'm now interested in the application of the recent advances of AI to the fundam
 
 ## Education
 
-* **Ph.D.**			Electrical Engineering,   March 2011      
-				Institut National des Sciences Appliquées (INSA) Rennes
-* **Master**		Information and Communication Engineering,   June 2007            
-				Xi’an Jiaotong University
-* **Bachelor**		Information Engineering,   July 2004                 
-				Xi’an Jiaotong University
+* **Ph.D.**			Electrical Engineering,   2011      
+				Institut National des Sciences Appliquées (INSA) Rennes, France
+* **Master**		Information and Communication Engineering,   2007            
+				Xi’an Jiaotong University, China
+* **Bachelor**		Information Engineering,   2004                 
+				Xi’an Jiaotong University, China
 
 ---
 ## Skill
@@ -45,18 +45,19 @@ I'm now interested in the application of the recent advances of AI to the fundam
 	- Tianzhuang Zhang (2019-2022)
 	- Xin Wang (2020-2023)
 	- Yuxuan Xu (2021-2024)
+
 * **Graduated Mater students**:
-	- Xiaoyi Wang (2015-2017), *now at* **China Railyway Fifth Survey and Design Institute Group**
-	- Qing Wang (2015-2018, co-advised with Prof. Zhangdui Zhong), *now at* **Huawei Technologies**
-	- Li Xu (2016-2019), *now at* **People's Bank of China (central bank of China)**
-	- Nian Liu (2017-2020), *now at* **China Merchants Bank**
-	- Yawen Zheng (2017-2020), *now at* **Minsheng Bank**
-	- Lanlan Wei (2017-2019), *now at* **Chinese Academy of Sciences**
-	- Mingshan Zhang (2017-2020, co-advised with Prof. Zhangdui Zhong), *now at* **Intel Research Center**
+	- Xiaoyi Wang (2015-2017), *now at China Railyway Fifth Survey and Design Institute Group*
+	- Qing Wang (2015-2018, co-advised with Prof. Z. Zhong), *now at Huawei Technologies* 
+	- Li Xu (2016-2019), *now at People's Bank of China* 
+	- Nian Liu (2017-2020), *now at China Merchants Bank* 
+	- Yawen Zheng (2017-2020), *now at Huaxia Bank* 
+	- Lanlan Wei (2017-2019), *now at Chinese Academy of Sciences* 
+	- Mingshan Zhang (2017-2020, co-advised with Prof. Z. Zhong), *now at Intel Research Center* 
 
 
-* **Ph.D. student**:
-Participate in the direction (together with Prof. Maryline Hélard and Prof. Fabienne Nouvel) of the research of Miss Rida El Chall, Ph.D candidate in INSA-Rennes, on the subjects of low-complexity soft-input soft-output MIMO detector and turbo receivers
+* **Ph.D.**:
+	- Miss Rida El Chall (in assistance to Prof. Maryline Hélard and Prof. Fabienne Nouvel, INSA-Rennes) 
 
 ---
 ## Award
