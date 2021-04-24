@@ -37,30 +37,35 @@ I'm now interested in the research of 5G techniques and wireless big data.
 
 ---
 ## Advising
-* **Master students**:
-	- Xiaoyi Wang (2015-2017), *now working in China Railyway Fifth Survey and Design Institute Group Co.Ltd. 
-			Xiaoyi Wang’s thesis won the **Excellent Master Thesis Prize** of School of Computer & Information Technology of Beijing Jiaotong University.*
-	- Qing Wang (2015-2018, co-advised with Prof. Zhangdui Zhong), 
-	- Li Xu (2016-2019), 
-	- Nian Liu (2017-2020), 
-	- Yawen Zheng (2017-2020), 
-	- Lanlan Wei (2017-2019), 
-	- Baigong Xu (2017-2019), 
-	- Junxia Zhang (2018-2021), 
-	- Xiaoyi Han (2018-2021), 
-	- Jiaxin Ren (2018-2021).
+* **Current Master students**:
+	- Junxia Zhang (2018-2021)
+	- Xiaoyi Han (2018-2021)
+	- Jiaxin Ren (2018-2021)
+	- Cihang Cheng (2019-2022)
+	- Tianzhuang Zhang (2019-2022)
+	- Xin Wang (2020-2023)
+	- Yuxuan Xu (2021-2024)
+* **Graduated Mater students**:
+	- Xiaoyi Wang (2015-2017), *now at China Railyway Fifth Survey and Design Institute Group Co.Ltd.*
+	- Qing Wang (2015-2018, co-advised with Prof. Zhangdui Zhong), *now at Huawei Technologies* 
+	- Li Xu (2016-2019), *now at People's Bank of China (central bank of China)*
+	- Nian Liu (2017-2020), *now at China Merchants Bank* 
+	- Yawen Zheng (2017-2020), *now at Minsheng Bank*
+	- Lanlan Wei (2017-2019), *now at Chinese Academy of Sciences*
+	- Mingshan Zhang (2017-2020, co-advised with Prof. Zhangdui Zhong), *now at Intel Research Center*
+
 
 * **Ph.D. student**:
 Participate in the direction (together with Prof. Maryline Hélard and Prof. Fabienne Nouvel) of the research of Miss Rida El Chall, Ph.D candidate in INSA-Rennes, on the subjects of low-complexity soft-input soft-output MIMO detector and turbo receivers
 
 ---
 ## Award
-	- 2021	**China Railway Society Science and Technology Progress Award**, **Second Prize** (4/20)
-	- 2020	**Excellent Bachelor thesis prize of Beijing Jiaotong University** (for Mr. Lei Zhang’s thesis)
-	- 2019	**Excellent Bachelor thesis prize of Beijing Municipal** (for Mr. Cihang Cheng’s thesis)
-	- 2019	**Huawei Prize** (two recipients each year in BJTU)
-	- 2018	**Watchdata Prize** 
-	- 2017 	**Excellent Master thesis prize of School of Computer & Information Technology of Beijing Jiaotong University** (for Miss Xiaoyi Wang’s thesis)
+- 2021	**China Railway Society Science and Technology Progress Award**, **Second Prize** (4/20)
+- 2020	**Excellent Bachelor thesis prize of Beijing Jiaotong University** (for Mr. Lei Zhang’s thesis)
+- 2019	**Excellent Bachelor thesis prize of Beijing Municipal** (for Mr. Cihang Cheng’s thesis)
+- 2019	**Huawei Prize** (two recipients each year in BJTU)
+- 2018	**Watchdata Prize** 
+- 2017 	**Excellent Master thesis prize of School of Computer & Information Technology of Beijing Jiaotong University** (for Miss Xiaoyi Wang’s thesis)
 
 ---
 ## Contact
