@@ -25,11 +25,13 @@ I'm now interested in the research of 5G techniques and wireless big data.
 ## Skill
 
 * **Telecom**:		
-				massive-MIMO, OFDM, space-time coding, iterative process, channel estimation, signal processing, random access, transceiver design, system optimization, machine-to-machine (M2M) communications, optical fiber communications, physical layer security
+				massive-MIMO, OFDM, space-time coding, iterative process, channel estimation, random access, physical layer security, optical fiber communications 
 * **Systems**:
-			GSM, GPRS, EDGE, LTE, DVB-T/T2/NGH, DTMB 	
+			GSM, LTE, DVB-T/T2/NGH, DTMB 
+* **AI**: 
+			hands on experience on typical machine learning models, e. g. CNN, auto-encoder, GAN	
 * **Tools**:	
-			MATLAB, C, C++, Agilent Advanced Design System (ADS)
+			MATLAB, Python, C, C++, JAVA, Agilent Advanced Design System (ADS)
 * **Language**:	
 		English (fluent), French (fluent), Chinese (mother tongue) 
 
@@ -50,6 +52,15 @@ I'm now interested in the research of 5G techniques and wireless big data.
 
 * **Ph.D. student**:
 Participate in the direction (together with Prof. Maryline Hélard and Prof. Fabienne Nouvel) of the research of Miss Rida El Chall, Ph.D candidate in INSA-Rennes, on the subjects of low-complexity soft-input soft-output MIMO detector and turbo receivers
+
+---
+## Award
+- 2021	China Railway Society Science and Technology Progress Award, Second Prize (4/20)
+- 2020	Excellent Bachelor thesis prize of Beijing Jiaotong University (for Mr. Lei Zhang’s thesis)
+- 2019	Excellent Bachelor thesis prize of Beijing Municipal (for Mr. Cihang Cheng’s thesis)
+- 2019	Huawei Prize (two recipients each year in BJTU)
+- 2018	Watchdata Prize 
+- 2017 	Excellent Master thesis prize of School of Computer & Information Technology of Beijing Jiaotong University (for Miss Xiaoyi Wang’s thesis)
 
 ---
 ## Contact

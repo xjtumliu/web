@@ -54,4 +54,12 @@ is_contact: true
 2. P. Yin, L. Peng, J. Zhang, **M. Liu**, H. Fu and A. Hu, “LTE device identification based on RF fingerprint with multi-channel convolutional neural network,” submitted to *IEEE Global Communications Conference (GLOBECOM 2021)*.
 
 
+### Patent:
+1. **M. Liu**, X. Han, L. Wei, *et al.* “A radio frequency fingerprinting method based on differential constellation trace figure with multiple differential intervals,” *Chinese Invention Patent, No. 201911317866.4*, Dec. 19, 2019.  Granted.
+2. **M. Liu**, N. Liu, Q. Wang, “Non-orthogonal multiple access based on massive MIMO,” *Chinese Invention Patent, No. 201810485402.3*, May 21, 2018, Granted.
+3. **M. Liu**, X. Wang, D. Wang, “Active eavesdropping detection for massive MIMO systems based on random symbols,” *Chinese Invention Patent, No. 201610972844.1*, Nov. 7, 2016. Granted. 
+4. **M. Liu**, N. Liu, W. Xue, *et al.* “A RFID localization method based on deep learning,” *Chinese Invention Patent application, No. 201910591425.7*, Jul. 3, 2019. 
+5. **M. Liu**, C. Cheng, T. Zhang, *et al.* “A tool monitor system based on RFID,” *Chinese Invention Patent application, No. 201911080688.8*, Nov. 7, 2019. 
+6. L. Zhang, Y. Zhang. X. Li, **M. Liu**,  *et al.* “Wireless device authentication platform based on radio frequency fingerprint,” *Registration of Computer Software Copyright*, Feb. 25, 2019. Granted. 
+
 <a href="#" class="btn btn-success">Back to Top</a>
