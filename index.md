@@ -7,8 +7,8 @@ layout: default
 <img class="profile-picture" src="ml.jpg">
 
 I'm an Associated Professor and a Ph.D. supervisor affiliated with the School of Computer & Information Technology of Beijing Jiaotong University. 
-In my research works I was working in the areas of communication theories and techniques, including  massive MIMO, space-time coding, Turbo receiver, optical fiber communications and Internet of Things. 
-I'm now interested in the research of 5G techniques and wireless big data.
+In my research works I was working in the areas of communication theories and techniques, including  massive MIMO, space-time coding, Turbo receiver, optical fiber communications and physical layer identification. 
+I'm now interested in the application of the recent advances of AI to the fundamental problems in communication systems.
 
 ---
 
@@ -46,13 +46,13 @@ I'm now interested in the research of 5G techniques and wireless big data.
 	- Xin Wang (2020-2023)
 	- Yuxuan Xu (2021-2024)
 * **Graduated Mater students**:
-	- Xiaoyi Wang (2015-2017), *now at China Railyway Fifth Survey and Design Institute Group Co.Ltd.*
-	- Qing Wang (2015-2018, co-advised with Prof. Zhangdui Zhong), *now at Huawei Technologies* 
-	- Li Xu (2016-2019), *now at People's Bank of China (central bank of China)*
-	- Nian Liu (2017-2020), *now at China Merchants Bank* 
-	- Yawen Zheng (2017-2020), *now at Minsheng Bank*
-	- Lanlan Wei (2017-2019), *now at Chinese Academy of Sciences*
-	- Mingshan Zhang (2017-2020, co-advised with Prof. Zhangdui Zhong), *now at Intel Research Center*
+	- Xiaoyi Wang (2015-2017), *now at* **China Railyway Fifth Survey and Design Institute Group**
+	- Qing Wang (2015-2018, co-advised with Prof. Zhangdui Zhong), *now at* **Huawei Technologies**
+	- Li Xu (2016-2019), *now at* **People's Bank of China (central bank of China)**
+	- Nian Liu (2017-2020), *now at* **China Merchants Bank**
+	- Yawen Zheng (2017-2020), *now at* **Minsheng Bank**
+	- Lanlan Wei (2017-2019), *now at* **Chinese Academy of Sciences**
+	- Mingshan Zhang (2017-2020, co-advised with Prof. Zhangdui Zhong), *now at* **Intel Research Center**
 
 
 * **Ph.D. student**:
