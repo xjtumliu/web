@@ -50,8 +50,8 @@ is_contact: true
 23. **M. Liu**, M. Crussière, J.-F. Hélard and O.P. Pasquero, “Analysis and performance comparison of DVB-T and DTMB systems for terrestrial digital TV,” in *Proc. 11th IEEE International Conference on Communication Systems (ICCS 2008)*, pp. 1–6, Guangzhou, China, Oct. 2008.
 
 ### Under Submission:
-1. J. Zhang, **M. Liu**, K. Xiong and M. Zhang, “Near-Optimal User Clustering and Power Control for Uplink MISO-NOMA Networks,” submitted to *IEEE Global Communications Conference (GLOBECOM 2021)*. 
-2. P. Yin, L. Peng, J. Zhang, **M. Liu**, H. Fu and A. Hu, “LTE Device Identification Based on RF Fingerprint with Multi-Channel Convolutional Neural Network,” submitted to *IEEE Global Communications Conference (GLOBECOM 2021)*.
+1. J. Zhang, **M. Liu**, K. Xiong and M. Zhang, “Near-optimal user clustering and power control for uplink MISO-NOMA networks,” submitted to *IEEE Global Communications Conference (GLOBECOM 2021)*. 
+2. P. Yin, L. Peng, J. Zhang, **M. Liu**, H. Fu and A. Hu, “LTE device identification based on RF fingerprint with multi-channel convolutional neural network,” submitted to *IEEE Global Communications Conference (GLOBECOM 2021)*.
 
 
 <a href="#" class="btn btn-success">Back to Top</a>
