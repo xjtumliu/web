@@ -57,7 +57,7 @@ I'm now interested in the application of the recent advances of AI to the fundam
 
 
 * **Ph.D.**:
-	- Miss Rida El Chall (in assistance to Prof. Maryline Hélard and Prof. Fabienne Nouvel, INSA-Rennes) 
+	- Miss Rida El Chall (2012-2015, in assistance to Prof. Maryline Hélard and Prof. Fabienne Nouvel, INSA-Rennes) 
 
 ---
 ## Award
