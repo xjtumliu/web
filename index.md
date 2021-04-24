@@ -55,12 +55,12 @@ Participate in the direction (together with Prof. Maryline Hélard and Prof. Fab
 
 ---
 ## Award
-- 2021	China Railway Society Science and Technology Progress Award, Second Prize (4/20)
-- 2020	Excellent Bachelor thesis prize of Beijing Jiaotong University (for Mr. Lei Zhang’s thesis)
-- 2019	Excellent Bachelor thesis prize of Beijing Municipal (for Mr. Cihang Cheng’s thesis)
-- 2019	Huawei Prize (two recipients each year in BJTU)
-- 2018	Watchdata Prize 
-- 2017 	Excellent Master thesis prize of School of Computer & Information Technology of Beijing Jiaotong University (for Miss Xiaoyi Wang’s thesis)
+	- 2021	**China Railway Society Science and Technology Progress Award**, **Second Prize** (4/20)
+	- 2020	**Excellent Bachelor thesis prize of Beijing Jiaotong University** (for Mr. Lei Zhang’s thesis)
+	- 2019	**Excellent Bachelor thesis prize of Beijing Municipal** (for Mr. Cihang Cheng’s thesis)
+	- 2019	**Huawei Prize** (two recipients each year in BJTU)
+	- 2018	**Watchdata Prize** 
+	- 2017 	**Excellent Master thesis prize of School of Computer & Information Technology of Beijing Jiaotong University** (for Miss Xiaoyi Wang’s thesis)
 
 ---
 ## Contact
