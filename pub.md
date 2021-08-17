@@ -27,7 +27,7 @@ is_contact: true
 ### Conference papers:
 1.  J. Zhang, **M. Liu**, K. Xiong, M. Zhang, “Near-Optimal User Clustering and Power Control for Uplink MISO-NOMA Networks,”  in *Proc. IEEE Global Communications Conference (GLOBECOM)*,  Madrid, Spain, 2021.
 2. P. Yin, L. Peng, J. Zhang, **M. Liu**, H. Fu, A. Hu, “LTE Device Identification Based on RF Fingerprint with Multi-Channel Convolutional Neural Network,”  in *Proc. IEEE Global Communications Conference (GLOBECOM)*, Madrid, Spain, 2021.
-3. **M. Liu**, X. Han, N. Liu and L. Peng, “Bidirectional IoT Device Identification Based on Radio Frequency Fingerprint Reciprocity,”  to appear in *Proc. IEEE International Conference on Communications (ICC)*, Montreal, Canada, 2021.
+3. **M. Liu**, X. Han, N. Liu and L. Peng, “Bidirectional IoT Device Identification Based on Radio Frequency Fingerprint Reciprocity,”  in *Proc. IEEE International Conference on Communications (ICC)*, Montreal, Canada, 2021.
 4. M. Zhang, **M. Liu** and Z.D. Zhong, “Neural Network Assisted Active Constellation Extension for PAPR Reduction of OFDM System,”  in *Proc. 11th International Conference on. Wireless Communications and Signal Processing (WCSP'19)*, 2019.
 5. M. Zhang, M. Lou, H. Zhou, Y. Zhang, **M. Liu** and Z.D. Zhong, “Non-Orthogonal Coded Access Based Uplink Grant-Free Transmission for URLLC,”  in *Proc. IEEE/CIC International Conference on Communications in China (ICCC)*, 2019.
 6. Q. Wang, **M. Liu**, N. Liu and Z.D. Zhong, “On Augmenting UL Connections in Massive MIMO System using Composite Channel Estimation,”  in *Proc. IEEE Global Communications Conference (Globecom)*, 2018.
