@@ -5,20 +5,21 @@ is_contact: true
 
 ## Publications
 ### Journal papers:
-1. L. Peng, J. Zhang, **M. Liu** and A. Hu, “Deep Learning Based RF Fingerprint Identification Using Differential Constellation Trace Figure,”  *IEEE Transactions on Vehicular Technology*, vol. 69, no. 1, pp. 1091–1095, 2020. 
-2. L. Xu, J.Q. Chen, **M. Liu** and X.Y. Wang, “Active Eavesdropping Detection Based on Large-Dimensional Random Matrix Theory for Massive MIMO-Enabled IoT,” *Electronics*, 2019, 8(2), 146. 
-3. L. Peng, G. Li, J. Zhang, R. Woods, **M. Liu** and A. Hu, “An Investigation of Using Loop-back Mechanism for Channel Reciprocity Enhancement in Secret Key Generation,”  *IEEE Transactions on Mobile Computing*, vol. 18, no. 3, pp.507-519, 2019.
-4. L. Peng, **M. Liu**, M. Hélard and S. Haese, “PN-PAM Scheme for Short Range Optical Transmission over SI-POF--An Alternative to Discrete Multi-Tone (DMT) scheme,” *Journal of the European Optical Society*, 13:21, 2017.
-5. R. El Chall, F. Nouvel, M. Hélard and **M. Liu**, “Performance and complexity evaluation of iterative receiver for coded MIMO-OFDM systems,” *Mobile Information Systems*, 2016.
-6. **M. Liu**, J.-F. Hélard, M. Hélard and M. Crussière, “Towards the next generation TV broadcasting-improved perfor-mance using distributed MIMO,” *Wireless Personal Communications*, 84(4):2635-2649, 2015.
-7. R. El Chall, F. Nouvel, M. Hélard and **M. Liu**, “Iterative receivers combining MIMO detection with turbo decoding: performance-complexity trade-offs,” *EURASIP Journal on Wireless Communications and Networking*, 2015.
-8. L. Peng, M. Hélard, S. Haese, **M. Liu** and J.-F. Hélard, “Hybrid PN-ZP-DMT Scheme for Spectrum-Efficient Optical Communications and its Application to SI-POF,” *IEEE Journal of Lightwave Technology*, 32(18): 3149–3160, 2014.
-9. **M. Liu**, M. Crussière, M. Hélard and J.-F. Hélard, “Achieving low-complexity maximum-likelihood detection for the 3D MIMO code,” *EURASIP Journal on Wireless Communications and Networking*, 20, pp.1-16, 2014.
-10. **M. Liu**, M. Hélard, M. Crussière and J.-F. Hélard, “Distributed MIMO coding scheme with low decoding complexity for future mobile TV broadcasting,” *IET Electronics Letters*, 48(17):1079–1081, 2012.
-11. **M. Liu**, M. Crussière and J.-F. Hélard, “A novel data-aided channel estimation with reduced complexity for TDS-OFDM systems,” *IEEE Transactions on Broadcasting*, 58(2):247–260, 2012.
-12. G.P. Wang, K. Xiong, **M. Liu**, F.F. Gao, and Z.D. Zhong, “Backscatter communication technology and Internet of Things,” *Chinese Journal on Internet of Things*, 1(1):67–75, 2017. (in Chinese)
-13. **M. Liu**, L. Xu, X. Wang and J. Chen, “Active eavesdropper detection based on large dimension random matrix theory for massive MIMO systems,” *Journal of Beijing Jiaotong University*, vol. 44, no. 2, 2020. (in Chinese)
-14. **M. Liu**, N. Liu, X. Han, L. Peng, H. Fu and Y. Chen, “A RF Fingerprint Based EIoT Device Identification Method,” *Electric Power*, 2021. (in Chinese)
+1. **M. Liu, J**. Zhang, K. Xiong, M. Zhang, P. Fan, and K. B. Letaief, “Effective User Clustering and Power Control for Multi-Antenna Uplink NOMA Transmission,”  *IEEE Transactions on Wireless Communications*, 2022, early access.
+2. L. Peng, J. Zhang, **M. Liu** and A. Hu, “Deep Learning Based RF Fingerprint Identification Using Differential Constellation Trace Figure,”  *IEEE Transactions on Vehicular Technology*, vol. 69, no. 1, pp. 1091–1095, 2020. 
+3. L. Xu, J.Q. Chen, **M. Liu** and X.Y. Wang, “Active Eavesdropping Detection Based on Large-Dimensional Random Matrix Theory for Massive MIMO-Enabled IoT,” *Electronics*, 2019, 8(2), 146. 
+4. L. Peng, G. Li, J. Zhang, R. Woods, **M. Liu** and A. Hu, “An Investigation of Using Loop-back Mechanism for Channel Reciprocity Enhancement in Secret Key Generation,”  *IEEE Transactions on Mobile Computing*, vol. 18, no. 3, pp.507-519, 2019.
+5. L. Peng, **M. Liu**, M. Hélard and S. Haese, “PN-PAM Scheme for Short Range Optical Transmission over SI-POF--An Alternative to Discrete Multi-Tone (DMT) scheme,” *Journal of the European Optical Society*, 13:21, 2017.
+6. R. El Chall, F. Nouvel, M. Hélard and **M. Liu**, “Performance and complexity evaluation of iterative receiver for coded MIMO-OFDM systems,” *Mobile Information Systems*, 2016.
+7. **M. Liu**, J.-F. Hélard, M. Hélard and M. Crussière, “Towards the next generation TV broadcasting-improved perfor-mance using distributed MIMO,” *Wireless Personal Communications*, 84(4):2635-2649, 2015.
+8. R. El Chall, F. Nouvel, M. Hélard and **M. Liu**, “Iterative receivers combining MIMO detection with turbo decoding: performance-complexity trade-offs,” *EURASIP Journal on Wireless Communications and Networking*, 2015.
+9. L. Peng, M. Hélard, S. Haese, **M. Liu** and J.-F. Hélard, “Hybrid PN-ZP-DMT Scheme for Spectrum-Efficient Optical Communications and its Application to SI-POF,” *IEEE Journal of Lightwave Technology*, 32(18): 3149–3160, 2014.
+10. **M. Liu**, M. Crussière, M. Hélard and J.-F. Hélard, “Achieving low-complexity maximum-likelihood detection for the 3D MIMO code,” *EURASIP Journal on Wireless Communications and Networking*, 20, pp.1-16, 2014.
+11. **M. Liu**, M. Hélard, M. Crussière and J.-F. Hélard, “Distributed MIMO coding scheme with low decoding complexity for future mobile TV broadcasting,” *IET Electronics Letters*, 48(17):1079–1081, 2012.
+12. **M. Liu**, M. Crussière and J.-F. Hélard, “A novel data-aided channel estimation with reduced complexity for TDS-OFDM systems,” *IEEE Transactions on Broadcasting*, 58(2):247–260, 2012.
+13. G.P. Wang, K. Xiong, **M. Liu**, F.F. Gao, and Z.D. Zhong, “Backscatter communication technology and Internet of Things,” *Chinese Journal on Internet of Things*, 1(1):67–75, 2017. (in Chinese)
+14. **M. Liu**, L. Xu, X. Wang and J. Chen, “Active eavesdropper detection based on large dimension random matrix theory for massive MIMO systems,” *Journal of Beijing Jiaotong University*, vol. 44, no. 2, 2020. (in Chinese)
+15. **M. Liu**, N. Liu, X. Han, L. Peng, H. Fu and Y. Chen, “A RF Fingerprint Based EIoT Device Identification Method,” *Electric Power*, 2021. (in Chinese)
 
 ### Book chapter:
 1. L.A. Geng-Yang, **M. Liu**, Q. Y. Li and R. He, "Introduction of Machine Learning." Chapter in *Applications of Machine Learning in Wireless Communications*, IET, 2019. 
