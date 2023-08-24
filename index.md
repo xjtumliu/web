@@ -16,9 +16,9 @@ I'm now interested in the application of the recent advances of AI to the fundam
 
 * **Ph.D.**			Electrical Engineering,   2011      
 				Institut National des Sciences Appliquées (INSA) Rennes, France
-* **Master**		Information and Communication Engineering,   2007            
+* **M.E.**		Information and Communication Engineering,   2007            
 				Xi’an Jiaotong University, China
-* **Bachelor**		Information Engineering,   2004                 
+* **B.E.**		Information Engineering,   2004                 
 				Xi’an Jiaotong University, China
 
 ---
