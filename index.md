@@ -40,6 +40,10 @@ I'm now interested in the application of the recent advances of AI to the fundam
 * **Current Master students**:
 	- Xin Wang (2020-2023)
 	- Yuxuan Xu (2021-2024)
+	- Hui Luo (2022-2024)
+	- Jiali Xia (2021-2024)
+	- Nian Wang (2022-2025)
+	- Bingjie Jiang (2023-2026)
 
 * **Graduated Mater students**:
 	- Xiaoyi Wang (2015-2017), *now at China Railyway Fifth Survey and Design Institute Group*
