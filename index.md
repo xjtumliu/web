@@ -38,11 +38,6 @@ I'm now interested in the application of the recent advances of AI to the fundam
 ---
 ## Advising
 * **Current Master students**:
-	- Junxia Zhang (2018-2021)
-	- Xiaoyi Han (2018-2021)
-	- Jiaxin Ren (2018-2021)
-	- Cihang Cheng (2019-2022)
-	- Tianzhuang Zhang (2019-2022)
 	- Xin Wang (2020-2023)
 	- Yuxuan Xu (2021-2024)
 
@@ -54,7 +49,11 @@ I'm now interested in the application of the recent advances of AI to the fundam
 	- Yawen Zheng (2017-2020), *now at Huaxia Bank* 
 	- Lanlan Wei (2017-2019), *now at Chinese Academy of Sciences* 
 	- Mingshan Zhang (2017-2020, co-advised with Prof. Z. Zhong), *now at Intel Research Center* 
-
+	- Junxia Zhang (2018-2021), *now at Huaxia Bank*
+	- Xiaoyi Han (2018-2021), *now at Beijing Urban Construction Design & Development Group Co., Limited*
+	- Jiaxin Ren (2018-2021), *now at Ali Baba Network Technology Co.,Ltd*
+	- Cihang Cheng (2019-2022), *now at China Telecom System Integration Co., Ltd.*
+	- Tianzhuang Zhang (2019-2022), *now at ByteDance*
 
 * **Ph.D.**:
 	- Miss Rida El Chall (2012-2015, in assistance to Prof. Maryline Hélard and Prof. Fabienne Nouvel, INSA-Rennes) 
