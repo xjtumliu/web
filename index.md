@@ -14,7 +14,7 @@ I'm now interested in the application of the recent advances of AI to the fundam
 
 ## Education
 
-* **Ph.D.**			Electrical Engineering,   2011      
+* **Ph.D.**		Electrical Engineering,   2011      
 				Institut National des Sciences Appliquées (INSA) Rennes, France
 * **M.E.**		Information and Communication Engineering,   2007            
 				Xi’an Jiaotong University, China
@@ -25,7 +25,7 @@ I'm now interested in the application of the recent advances of AI to the fundam
 ## Skill
 
 * **Telecom**:		
-				massive-MIMO, OFDM, space-time coding, iterative process, channel estimation, random access, physical layer security, optical fiber communications 
+				backscatter communication, massive-MIMO, OFDM, space-time coding, iterative process, channel estimation, random access, physical layer security, optical fiber communications 
 * **Systems**:
 			GSM, LTE, DVB-T/T2/NGH, DTMB 
 * **AI**: 
@@ -60,7 +60,7 @@ I'm now interested in the application of the recent advances of AI to the fundam
 	- Tianzhuang Zhang (2019-2022), *now at ByteDance*
 
 * **Ph.D.**:
-	- Miss Rida El Chall (2012-2015, in assistance to Prof. Maryline Hélard and Prof. Fabienne Nouvel, INSA-Rennes) 
+	- Rida El Chall (2012-2015, in assistance to Prof. Maryline Hélard and Prof. Fabienne Nouvel, INSA-Rennes) 
 
 ---
 ## Award
