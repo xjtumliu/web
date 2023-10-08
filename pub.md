@@ -23,8 +23,9 @@ is_contact: true
 16. **M. Liu**, N. Liu, X. Han, L. Peng, H. Fu and Y. Chen, “A RF Fingerprint Based EIoT Device Identification Method,” *Electric Power*, 2021. (in Chinese)
 
 ### Book chapter:
-1. L.A. Geng-Yang, **M. Liu**, Q. Y. Li and R. He, "Introduction of Machine Learning." Chapter in *Applications of Machine Learning in Wireless Communications*, IET, 2019. 
-2. Q.Y. Li, Z.D. Zhong, **M. Liu** and W.W. Fang, "Smart Railway Based on Internet of Things." *Big Data Analytics for Sensor-Network Collected Intelligence*, H.-H. Hus, *et. al.* (eds), Elsevier, 2017. [[link](https://www.elsevier.com/books/big-data-analytics-for-sensor-network-collected-intelligence/hsu/978-0-12-809393-1)]
+1. **M. Liu**, H. Luo, X. Wang, L.N. Peng, and H. Fu, "Radio Frequency Fingerprint Based Wireless Device Identification." Chapter in *Physical Layer Security for 6G Networks*, IET, to appear in 2023. 
+2. L.A. Geng-Yang, **M. Liu**, Q. Y. Li and R. He, "Introduction of Machine Learning." Chapter in *Applications of Machine Learning in Wireless Communications*, IET, 2019. 
+3. Q.Y. Li, Z.D. Zhong, **M. Liu** and W.W. Fang, "Smart Railway Based on Internet of Things." *Big Data Analytics for Sensor-Network Collected Intelligence*, H.-H. Hus, *et. al.* (eds), Elsevier, 2017. [[link](https://www.elsevier.com/books/big-data-analytics-for-sensor-network-collected-intelligence/hsu/978-0-12-809393-1)]
 
 ### Conference papers:
 1. X. Tian, B. Gao, **M. Liu**, K. Xiong (*), P. Fan and K. B. Letaief, “IRL-PM: An Inverse Reinforcement Learning-based Power Minimization in Multi-User MISO Networks,”  in *Proc. 8th International Conference on Computer and Communication Systems (ICCCS)*, Guangzhou, China, 2023. [**Best presentation award**]
@@ -67,7 +68,11 @@ is_contact: true
 3. **M. Liu**, X. Wang, D. Wang, “Active eavesdropping detection for massive MIMO systems based on random symbols,” *Chinese Invention Patent, No. 201610972844.1*, Nov. 7, 2016. **Granted**. 
 4. **M. Liu**, N. Liu, W. Xue, *et al.* “A RFID localization method based on deep learning,” *Chinese Invention Patent application, No. 201910591425.7*, Jul. 3, 2019. 
 5. **M. Liu**, C. Cheng, T. Zhang, *et al.* “A tool monitor system based on RFID,” *Chinese Invention Patent application, No. 201911080688.8*, Nov. 7, 2019. 
-6. L. Zhang, Y. Zhang. X. Li, **M. Liu**,  *et al.* “Wireless device authentication platform based on radio frequency fingerprint,” *Registration of Computer Software Copyright*, Feb. 25, 2019. **Granted**. 
-7. **M. Liu**, Y. Xu, J. Ren, *et al.* “A LSTM based nonlinearity mitigation method for visible light communication (VLC) systems,” *Chinese Invention Patent application, No. 202110906991.X*, 2021. 
+6. **M. Liu**, Y. Xu, J. Ren, *et al.* “An LSTM-based non-linearity mitigation method for visible light communication (VLC) systems,” *Chinese Invention Patent application, No. 202110906991.X*, Aug. 9, 2021. 
+7. **M. Liu**, J. Zhang, K. Xiong, *et al.* “A power control method for uplink MISO-NOMA,” *Chinese Invention Patent application, No. 202110973495.6*, Aug. 24, 2021. 
+8. L. Zhang, Y. Zhang. X. Li, **M. Liu**,  *et al.* “Wireless device authentication platform based on radio frequency fingerprint,” *Registration of Computer Software Copyright*, Feb. 25, 2019. **Granted**. 
+9. **M. Liu**, X. Wang, X. Han, *et al.* “A radio frequency fingerprint extractrion method based on multiple feature fusion with attention mechanism,” *Chinese Invention Patent application, No. 202111148113.2*, 2021. 
+10. **M. Liu**, H. Luo, T. Zhang, *et al.* “A radio frequency fingerprint extractrion method for wireless devices based on multi-path compensation,” *Chinese Invention Patent application, No. 202310715769.0*, 2023. 
+11. Y. Xu, G. Wang, **M. Liu**, T. Xu, *et al.* “Method, aparatus, and device of carrier frequency estimation and backscatter communications,” *Chinese Invention Patent application, No.  202310334994.X*, 2023. 
 
 <a href="#" class="btn btn-success">Back to Top</a>
