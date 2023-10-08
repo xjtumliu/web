@@ -64,6 +64,10 @@ I'm now interested in the application of the recent advances of AI to the fundam
 
 ---
 ## Award
+- 2022  **Beijing Municipal Higher Education Achievement Award**, **Second Prize** (4/15)
+- 2021  **Special Award for Undergraduate Teaching Achievement of Beijing Jiaotong University**, (4/15)
+- 2021  **Undergraduate Education Achievement Award of Beijing Jiaotong University**, **Second Prize** (1/6), (2/5)
+- 2021  **Postgraduate Education Achievement Award of Beijing Jiaotong University**, **First Prize** (8/11)
 - 2021	**China Railway Society Science and Technology Progress Award**, **Second Prize** (4/20)
 - 2020	**Excellent Bachelor thesis prize of Beijing Jiaotong University** (for Mr. Lei Zhang’s thesis)
 - 2019	**Excellent Bachelor thesis prize of Beijing Municipal** (for Mr. Cihang Cheng’s thesis)
