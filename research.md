@@ -5,10 +5,28 @@ is_contact: true
 
 ## Research Experience
 ---
-### Identification of Wireless IoT Device Based on Radio Frequency Fingerprint
-*National Science Foundation of China*, **PI**
-* <U>Project Objective</U>: Researching the device fingerprinting technique to support new device identification mechanism for IoT devices. 
-Various Internet of Things (IoT) applications are penetrating into many aspects of our daily life. IoT is integrating with the cutting-edge technologies such as artificial intelligence, big data, and cloud computing to form the cornerstone of the future intelligent living environment. However, due to the openness of the wireless communication medium and the limited hardware and network resources, how to efficiently identify the IoT devices becomes more and more important form both efficiency and security perspectives of the network. This project will research the theory and methodology of identifying the IoT devices using the device fingerprints inherent in wireless devices. 
+### Backscatter Communication Technique for Ambient IoT 
+*National Science Foundation of China (NSFC)* & *Industry sponsored research projects*, **co-technical leader**, *on-going*
+* <U>Project Objective</U>: Devise backscatter communication techniques for ambient IoT 
+	- High-speed passive backscatter communication over ranges of meters 
+
+		The random access of massive concurrent Internet-of-Thing devices becomes a major challenge for the future mobile communication network. We seek the possibility of exploiting the great spatial degrees of freedom brought by the massive MIMO technique. The small-scale fading channels of concurrent users sharing the same band is converted to a scalar form after the simple Maximal Ratio Combining (MRC). The overlapped users’ symbols are then recovered using the iterative interference canceller as long as the received powers of different users exhibit significant difference. The random access of multiple concurrent users is turned into a power allocation problem. It is proved that the proposed random access scheme can support around 300% system overload ratio. 
+	<figure>
+	    <img class='aligncenter' src='BackscatterComm.png' alt='Backscatter communication platform with >2 Mbps rate over air interface.' style="width:400px;" />
+	    <figcaption><U>Backscatter communication platform with >2 Mbps rate over air interface</U>.</figcaption>
+	</figure>
+	- Long-range passive backscatter communication 
+
+		Communication over long range has always been a major challenge for passive backscatter devices due to the dual-trip attenuation nature of the backscatter communication. The classical UHD RFID system can usually cover a range of <10 m. 3GPP started investigating the low rate backscatter communication over 50 m in its new study item "Study on solutions for Ambient IoT in NR" with a potential target on Release-19. Our research efforts lie in the joint optimization of frame structure, multiple access and transceiver design. More details of our vision can be found in our 3GPP document "*Multiple access and backscatter consideration  for R19 ambient IoT*" (<p><a href="https://www.3gpp.org/ftp/tsg_ran/TSG_RAN/TSGR_102/Docs/RP-233518.zip">https://www.3gpp.org/ftp/tsg_ran/TSG_RAN/TSGR_102/Docs/RP-233518.zip</a>RP-233518</p>). 
+	- RF self-interference cancellation (SIC) for mono-static backscatter communications
+
+		The information transmission between a backscatter device (i.e. a "tag" in classic RFID system) and a backscatter interrogator (a.k.a. "reader") is carried out by changing the reflection status of the incident RF carrier wave in the mono-static backscatter communications. The carrier wave leaking from the Tx to Rx of the reader due to the imperfect isolation of the circulator introduces significant interference in the received RF backscatter signal, causing severe RF self-interference. This RF self-interference constitutes the most prominent performance bottleneck of the mono-static backscatter communication. This project aims to design hardware and algorithm to realize RF self-interference cancellation of the backscatter system. Experimental results show that the implemented RF SIC platform can achieve over 45 dB interference cancellation performance. 	
+
+---
+### Identification of Wireless Internet of Things (IoT) Device Based on Radio Frequency Fingerprint
+*National Science Foundation of China (NSFC)*, **PI**，*01/2020 – 12/2023*
+* <U>Project Objective</U>: Design device fingerprinting technique to support new device identification mechanism for IoT devices. 
+Various IoT applications are penetrating into many aspects of our daily life. IoT is integrating with the cutting-edge technologies such as artificial intelligence, big data, and cloud computing to form the cornerstone of the future intelligent living environment. However, due to the openness of the wireless communication medium and the limited hardware and network resources, how to efficiently identify the IoT devices becomes more and more important form both efficiency and security perspectives of the network. This project will research the theory and methodology of identifying the IoT devices using the device fingerprints inherent in wireless devices. 
 	- **Robust radio frequency fingerprint (RFF) extraction**
 
 		Existing researches on RFF mainly focus on extracting unique features resulted by certain device imperfections (e.g. carrier frequency offset, I/Q imbalances, nonlinearity, frequency response, etc.), and visualizing them through some processing (e.g. Fourier, wavelet, Hilbert-Huang transforms and correlations). Recent advances adopt the machine learning techniques to identify the visualized features. However, most researches considered only one feature. Hence, they are not resilient to the channel uncertainty, and the capacity of identification is limited. This work will propose new machine learning models that integrate multiple signal features in order to achieve higher identification accuracy and robustness. 
@@ -37,7 +55,7 @@ Various Internet of Things (IoT) applications are penetrating into many aspects 
 	
 ---
 ### Reliable transmission techniques in the massive MIMO systems for 5G
-*National Science Foundation of China*, **PI**, *01/2016 – 12/2018*
+*National Science Foundation of China (NSFC)*, **PI**, *01/2016 – 12/2018*
 * <U>Project Objective</U>: Researching key physical layer techniques for reliable and scalable massive MIMO system
 	- Physical layer security technique to prevent pilot contamination attack
 

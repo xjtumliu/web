@@ -23,7 +23,7 @@ is_contact: true
 16. **M. Liu**, N. Liu, X. Han, L. Peng, H. Fu and Y. Chen, “A RF Fingerprint Based EIoT Device Identification Method,” *Electric Power*, 2021. (in Chinese)
 
 ### Book chapter:
-1. **M. Liu**, H. Luo, X. Wang, L.N. Peng, and H. Fu, "Radio Frequency Fingerprint Based Wireless Device Identification." Chapter in *Physical Layer Security for 6G Networks*, IET, to appear in 2023. 
+1. **M. Liu**, H. Luo, X. Wang, L.N. Peng, and H. Fu, "Radio Frequency Fingerprint Based Wireless Device Identification." Chapter in *Physical Layer Security for 6G Networks*, IET, to appear in 2024. 
 2. L.A. Geng-Yang, **M. Liu**, Q. Y. Li and R. He, "Introduction of Machine Learning." Chapter in *Applications of Machine Learning in Wireless Communications*, IET, 2019. 
 3. Q.Y. Li, Z.D. Zhong, **M. Liu** and W.W. Fang, "Smart Railway Based on Internet of Things." *Big Data Analytics for Sensor-Network Collected Intelligence*, H.-H. Hus, *et. al.* (eds), Elsevier, 2017. [[link](https://www.elsevier.com/books/big-data-analytics-for-sensor-network-collected-intelligence/hsu/978-0-12-809393-1)]
 
