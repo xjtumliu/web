@@ -8,6 +8,9 @@ is_contact: true
 ### Backscatter Communication for Ambient IoT 
 *National Science Foundation of China (NSFC)* & *Industry-sponsored research projects*, **co-technical leader**, *ongoing*
 * <U>Project Objective</U>: Devise backscatter communication techniques for ambient IoT 
+	- Long-range passive backscatter communication 
+
+		Communication over long-range has always been a major challenge for passive backscatter devices due to the round-trip channel attenuation nature of the backscatter communication. The classical UHD RFID system can usually cover a range of <10 m. 3GPP started investigating the low rate backscatter communication over 50 m in its new study item "*Study on solutions for Ambient IoT in NR*" with a potential target on Release-19. Our research efforts lie in the joint optimization of frame structure, multiple access and transceiver design. More details of our vision can be found in our 3GPP document entitled "*Multiple access and backscatter consideration for R19 ambient IoT*" (<a href="https://www.3gpp.org/ftp/tsg_ran/TSG_RAN/TSGR_102/Docs/RP-233518.zip">3GPP RP-233518</a>). 
 	- High-speed passive backscatter communication over a range of meters 
 
 		The classical UHD RFID system only supports a communication rate of several to a few hundred kbps, which limits the backscatter communication in simple data collection applications like inventory and tracking. The backscatter communication technology can be envisioned to be applied in more energy-constrained scenarios with higher data-rate requirements. We developed an SDR-based hardware platform with baseband signal processing techniques including detection, synchronization, equalization, interference cancellation, demodulation etc. Accordingly, we are continuously improving the hardware of our own backscatter devices (advanced backscatter tags) to achieve higher communication rates. Experimental results show that the hardware platform can communicate with our tag at transmission rates as high as 5~10 Mbps over a range of a few meters.
@@ -15,9 +18,7 @@ is_contact: true
 	    <img class='center' src='BackscatterComm.png' alt='Backscatter communication platform with >5 Mbps rate over air interface.' style="width:400px;" />
 	    <figcaption><U>Backscatter communication platform with >5 Mbps rate over air interface</U>.</figcaption>
 	</figure>
-	- Long-range passive backscatter communication 
-
-	Communication over long-range has always been a major challenge for passive backscatter devices due to the round-trip channel attenuation nature of the backscatter communication. The classical UHD RFID system can usually cover a range of <10 m. 3GPP started investigating the low rate backscatter communication over 50 m in its new study item "*Study on solutions for Ambient IoT in NR*" with a potential target on Release-19. Our research efforts lie in the joint optimization of frame structure, multiple access and transceiver design. More details of our vision can be found in our 3GPP document entitled "*Multiple access and backscatter consideration  for R19 ambient IoT*" (<a href="https://www.3gpp.org/ftp/tsg_ran/TSG_RAN/TSGR_102/Docs/RP-233518.zip">3GPP RP-233518</a>). 
+	
 	- RF self-interference cancellation (SIC) for mono-static backscatter communications
 
 		The information transmission between a backscatter device (i.e. a "tag" in classic RFID system) and a backscatter interrogator (a.k.a. a "reader") is carried out by changing the reflection status of the incident RF carrier wave in the mono-static backscatter communications. The carrier wave leaking from the Tx to Rx of the reader due to the imperfect isolation of the circulator introduces significant interference in the received RF backscatter signal, causing severe RF self-interference. This RF self-interference constitutes the most prominent performance bottleneck of the mono-static backscatter communication. This project aims to design hardware and algorithms to realize RF self-interference cancellation of the backscatter system. Experimental results show that the implemented RF SIC platform can achieve over 45 dB interference cancellation performance. 	
