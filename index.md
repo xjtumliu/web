@@ -70,7 +70,7 @@ I'm now interested in the application of the recent advances of AI to the fundam
 - 2021	**China Railway Society Science and Technology Progress Award**, **Second Prize** (4/20)
 - 2020	**Excellent Bachelor thesis prize of Beijing Jiaotong University** (for Mr. Lei Zhang’s thesis)
 - 2019	**Excellent Bachelor thesis prize of Beijing Municipal** (for Mr. Cihang Cheng’s thesis)
-- 2019	**Huawei Prize** (two recipients each year in BJTU)
+- 2019	**Huawei Prize** 
 - 2018	**Watchdata Prize** 
 - 2017 	**Excellent Master thesis prize of the School of Computer & Information Technology of Beijing Jiaotong University** (for Miss Xiaoyi Wang’s thesis)
 
