@@ -55,7 +55,7 @@ Various IoT applications are penetrating many aspects of our daily life. IoT is 
 	</figure>
 	
 ---
-### Reliable transmission techniques in the massive MIMO systems for 5G
+### Reliable Transmission Techniques in the Massive MIMO Systems for 5G
 *National Science Foundation of China (NSFC)*, **PI**, *01/2016 – 12/2018*
 * <U>Project Objective: Research key physical layer techniques for reliable and scalable massive MIMO system
 	- Physical layer security technique to prevent pilot contamination attack
@@ -66,21 +66,26 @@ Various IoT applications are penetrating many aspects of our daily life. IoT is 
 		The random access of massive concurrent Internet-of-Thing devices becomes a major challenge for the future mobile communication network. We seek the possibility of exploiting the great spatial degrees of freedom brought by the massive MIMO technique. The small-scale fading channels of concurrent users sharing the same band are converted to a scalar form after the simple Maximal Ratio Combining (MRC). The overlapped users’ symbols are then recovered using the iterative interference canceller as long as the received powers of different users exhibit significant differences. The random access of multiple concurrent users is turned into a power allocation problem. It is proved that the proposed random access scheme can support around a 300% system overload ratio. 
 
 ---
-### 5G End-to-End performance optimization for hybrid service scenarios
+### 5G End-to-End Performance Optimization for Hybrid Service Scenarios
 *Nokia Bell Labs project*, **technical leader**, *04/2017 – 03/2018*
 * <U>Project Objective</U>: Propose radio resource management strategy for future mobile communication networks
-	- Ongoing research works
+	- Main research activities
 		+ Investigate traffic characteristics of future wireless networks in typical application scenarios
 		+ Research the method of radio resource management with more flexible manners and finer granularity
 		+ Evaluate the proposed schemes on the calibrated simulation platform
 
 ---
-### AI-based RFID localization technique for automated dispatch system
-*PI*, *03/2018 - 08/2018*
-* <U>Project Objective</U>: Devise deep learning-based algorithm to determine the location of RFID labels in the modern automatic dispatch system
-	- Ongoing research works
+### Spatial Localization based on RFID
+*PI*, *03/2018 - 06/2022*
+* <U>Project Objective</U>: Devise deep learning-based algorithm to determine the location of RFID labels for potential IoT applications including automatic dispatch systems and high-accuracy indoor positioning
+	- AI-based 1-D localization for automatic dispatch systems
 		+ Acquire large amounts of RFID signal samples, clean data, annotate labels
 		+ Training deep neural networks
+	- High-accuracy 2-D localization based on dual RFID tags and antenna array
+	<figure>
+	    <img class='center' src='Ante_Tag_Model.png' alt='localization based on dual tag and antenna array' style="width:400px;" />
+	    <figcaption><U>High-accuracy localization based on dual RFID tags and antenna array.</U>.</figcaption>
+	</figure>
 
 ---
 ### Machine-to-machine communications via cellular networks
