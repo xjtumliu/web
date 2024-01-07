@@ -13,14 +13,14 @@ is_contact: true
 		Communication over long-range has always been a major challenge for passive backscatter devices due to the round-trip channel attenuation nature of the backscatter communication. The classical UHD RFID system can usually cover a range of <10 m. 3GPP started investigating the low rate backscatter communication over 50 m in its new study item "<font><em>Study on solutions for Ambient IoT in NR</em></font>" with a potential target on Release-19. Our research efforts lie in the joint optimization of frame structure, multiple access and transceiver design. More details of our vision can be found in our 3GPP document entitled "<font style="color: #c81286">Multiple access and backscatter consideration for R19 ambient IoT</font>" (<a href="https://www.3gpp.org/ftp/tsg_ran/TSG_RAN/TSGR_102/Docs/RP-233518.zip">3GPP RP-233518</a>). 
 	<figure>
 	   	<img class='center' src='AIoT.jpg' alt='AIoT.' style="width:400px;" />
-	   	<figcaption><font style="color: #87c83c" size="12"><U>Our proposal of receiver structure for advanced backscatter communication</U></font>.</figcaption>
+	   	<figcaption><font style="color: rgb(60,135,200)"><U>Our proposal of receiver structure for advanced backscatter communication</U></font>.</figcaption>
 	</figure>
 	- High-speed passive backscatter communication over a range of meters 
 
 		The classical UHD RFID system only supports a communication rate of several to a few hundred kbps, which limits the backscatter communication in simple data collection applications like inventory and tracking. The backscatter communication technology can be envisioned to be applied in more energy-constrained scenarios with higher data-rate requirements. We developed an SDR-based hardware platform with baseband signal processing techniques including detection, synchronization, equalization, interference cancellation, demodulation etc. Accordingly, we are continuously improving the hardware of our own backscatter devices (advanced backscatter tags) to achieve higher communication rates. Experimental results show that the hardware platform can communicate with our tag at transmission rates as high as 5~10 Mbps over a range of a few meters.
 	<figure>
 	   	<img class='center' src='BackscatterComm.png' alt='Backscatter communication platform with >5 Mbps rate over air interface.' style="width:400px;" />
-	   	<figcaption><font style="color: #87c83c" size="12"><U>Backscatter communication platform with >5 Mbps rate over air interface</U></font>.</figcaption>
+	   	<figcaption><font style="color: rgb(60,135,200)"><U>Backscatter communication platform with >5 Mbps rate over air interface</U></font>.</figcaption>
 	</figure>
 	
 	- RF self-interference cancellation (SIC) for mono-static backscatter communications
