@@ -46,7 +46,7 @@ Various IoT applications are penetrating many aspects of our daily life. IoT is 
 		Channel fading causes severe signal distortion and leads to the variation of signal characteristics with respect to the location. The extracted RFF therefore becomes location-dependent and cannot uniquely and accurately reflect the identity of the transmitter. In this work, we devise a time-delayed	channel fading compensation method for OFDM-based wideband communication systems. The impact of channel distortion is mitigated after the compensation, but the signal variation due to the carrier frequency imperfection is still kept and can be extracted as the feature of RFF identification. Experimental results show that the RFFs formed by our method exhibit strong immunity to channel variation in different locations.  
 
 	<figure>
-	    <img class="center" src="channel_invariant_RFF" style="width:400px;" />
+	    <img class="center" src="channel_invariant_RFF.png" style="width:400px;" />
 	    <figcaption><font style="color: rgb(60,135,200)"><U>RFFs extracted in various locations show significant similarity</U></font>.</figcaption>
 	</figure>
 
