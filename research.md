@@ -12,14 +12,14 @@ is_contact: true
 
 		Communication over long-range has always been a major challenge for passive backscatter devices due to the round-trip channel attenuation nature of the backscatter communication. The classical UHD RFID system can usually cover a range of <10 m. 3GPP started investigating the low rate backscatter communication over 50 m in its new study item "<font><em>Study on solutions for Ambient IoT in NR</em></font>" with a potential target on Release-19. Our research efforts lie in the joint optimization of frame structure, multiple access and transceiver design. More details of our vision can be found in our 3GPP document entitled "<font style="color: #c81286">Multiple access and backscatter consideration for R19 ambient IoT</font>" (<a href="https://www.3gpp.org/ftp/tsg_ran/TSG_RAN/TSGR_102/Docs/RP-233518.zip">3GPP RP-233518</a>). 
 	<figure>
-	   	<img class='center' src='AIoT.jpg' alt='AIoT.' style="width:500px;" />
+	   	<img class='center' src='AIoT.jpg' alt='AIoT.' style="width:550px;" />
 	   	<figcaption><font style="color: rgb(60,135,200)"><U>Our proposal of receiver structure for advanced backscatter communication</U></font>.</figcaption>
 	</figure>
 	- High-speed passive backscatter communication over a range of meters 
 
 		The classical UHD RFID system only supports a communication rate of several to a few hundred kbps, which limits the backscatter communication in simple data collection applications like inventory and tracking. The backscatter communication technology can be envisioned to be applied in more energy-constrained scenarios with higher data-rate requirements. We developed an SDR-based hardware platform with baseband signal processing techniques including detection, synchronization, equalization, interference cancellation, demodulation etc. Accordingly, we are continuously improving the hardware of our own backscatter devices (advanced backscatter tags) to achieve higher communication rates. Experimental results show that the hardware platform can communicate with our tag at transmission rates as high as 5~10 Mbps over a range of a few meters.
 	<figure>
-	   	<img class='center' src='BackscatterComm.png' alt='Backscatter communication platform with >5 Mbps rate over air interface.' style="width:400px;" />
+	   	<img class='center' src='BackscatterComm.png' alt='Backscatter communication platform with >5 Mbps rate over air interface.' style="width:350px;" />
 	   	<figcaption><font style="color: rgb(60,135,200)"><U>Backscatter communication platform with >5 Mbps rate over air interface</U></font>.</figcaption>
 	</figure>
 	
@@ -41,9 +41,18 @@ Various IoT applications are penetrating many aspects of our daily life. IoT is 
 	    <figcaption><font style="color: rgb(60,135,200)"><U>An example of differential constellation trace figure</U></font>.</figcaption>
 	</figure>
 
+	- **Channel-invariant RFF extraction for OFDM systems**
+
+		Channel fading causes severe signal distortion and leads to the variation of signal characteristics with respect to the location. The extracted RFF therefore becomes location-dependent and cannot uniquely and accurately reflect the identity of the transmitter. In this work, we devise a time-delayed	channel fading compensation method for OFDM-based wideband communication systems. The impact of channel distortion is mitigated after the compensation, but the signal variation due to the carrier frequency imperfection is still kept and can be extracted as the feature of RFF identification. Experimental results show that the RFFs formed by our method exhibit strong immunity to channel variation in different locations.  
+
+	<figure>
+	    <img class="center" src="channel_invariant_RFF" style="width:400px;" />
+	    <figcaption><font style="color: rgb(60,135,200)"><U>RFFs extracted in various locations show significant similarity</U></font>.</figcaption>
+	</figure>
+
 	- **Bidirectional device identification based on RFF for IoT scenarios**
 
-		Existing researches on Radio Frequency Fingerprint (RFF) mainly focus on unilateral device identification in one communication direction. However, in practice, it is difficult for IoT devices to identify the base station due to their hardware insufficiencies. This work investigates the bidirectional device identification method for IoT application scenarios. The inherent reciprocity of the communication pair's RFFs is studied and exploited to offload the learning process, which is supposed to be proceeded by the IoT device, to the base station. The autoencoder-based RFF reciprocal conversion network is devised to predict the downlink RFF based on the data samples acquired in the uplink, so that the training process of the downlink identification network can be accomplished by the base station and the computational complexity of IoT devices is reduced. Evaluations with real-world data show that, the IoT devices can achieve a high accuracy to identify the base station using the identification network trained by the base station. 
+		Existing researches on Radio Frequency Fingerprint (RFF) mainly focus on unilateral device identification in one communication direction. However, in practice, it is difficult for IoT devices to identify the base station due to their hardware insufficiencies. This work investigates the bidirectional device identification method for IoT application scenarios. The inherent reciprocity of the communication pair's RFFs is studied and exploited to offload the learning process, which is supposed to be proceeded by the IoT device, to the base station. The autoencoder-based RFF reciprocal conversion network is devised to predict the downlink RFF based on the data samples acquired in the uplink, so that the training process of the downlink identification network can be accomplished by the base station and the computational complexity of IoT devices is reduced. Evaluations with real-world data show that IoT devices can achieve high accuracy in identifying the base station using the identification network trained by the base station. 
 
 	<figure>
 	    <img class="center" src="bidirectional.png" style="width:550px;" />
@@ -88,7 +97,7 @@ Various IoT applications are penetrating many aspects of our daily life. IoT is 
 	- High-accuracy 2-D localization based on dual RFID tags and antenna array
 	<figure>
 	    <img class='center' src='Ante_Tag_Model.png' alt='localization based on dual tag and antenna array' style="width:400px;" />
-	    <figcaption><U>High-accuracy localization based on dual RFID tags and antenna array.</U>.</figcaption>
+	    <figcaption><font style="color: rgb(60,135,200)"><U>High-accuracy localization based on dual RFID tags and antenna array.</U><font style="color: rgb(60,135,200)">.</figcaption>
 	</figure>
 
 ---
