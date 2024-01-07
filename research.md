@@ -97,7 +97,7 @@ Various IoT applications are penetrating many aspects of our daily life. IoT is 
 	- High-accuracy 2-D localization based on dual RFID tags and antenna array
 	<figure>
 	    <img class='center' src='Ante_Tag_Model.png' alt='localization based on dual tag and antenna array' style="width:400px;" />
-	    <figcaption><font style="color: rgb(60,135,200)"><U>High-accuracy localization based on dual RFID tags and antenna array.</U><font style="color: rgb(60,135,200)">.</figcaption>
+	    <figcaption><font style="color: rgb(60,135,200)"><U>High-accuracy localization based on dual RFID tags and antenna array.</U></font>.</figcaption>
 	</figure>
 
 ---
