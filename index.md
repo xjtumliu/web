@@ -25,11 +25,11 @@ I'm now interested in the application of the recent advances of AI to the fundam
 ## Skill
 
 * **Telecom**:		
-			Passive	backscatter communication, massive-MIMO, OFDM, space-time coding, channel estimation, random access, physical layer security, optical fiber communications, RF interference cancellation 
+			Passive	backscatter communication, RF interference cancellation, massive-MIMO, OFDM, space-time coding, channel estimation, random access, physical layer security, optical fiber communications  
 * **Systems**:
-			GSM, LTE, DVB-T/T2/NGH, DTMB 
+			GSM, LTE, RFID, DVB-T/T2/NGH, DTMB 
 * **AI**: 
-			Hands on experience on typical machine learning models, e.g. CNN, auto-encoder, GAN, transformer	
+			Hands-on experience on typical machine learning models, e.g. CNN, auto-encoder, GAN, transformer	
 * **Tools**:	
 			MATLAB, Python, C/C++, JAVA
 * **Language**:	
@@ -40,7 +40,7 @@ I'm now interested in the application of the recent advances of AI to the fundam
 * **Current Master students**:
 	- Yuxuan Xu (2021-2024)
 	- Hui Luo (2022-2024)
-	- Jiali Xia (2021-2024)
+	- Jiali Xia (2022-2024)
 	- Nian Wang (2022-2025)
 	- Bingjie Jiang (2023-2026)
 
@@ -54,12 +54,22 @@ I'm now interested in the application of the recent advances of AI to the fundam
 	- Mingshan Zhang (2017-2020, co-advised with Prof. Z.D. Zhong), *now at Intel Research Center* 
 	- Junxia Zhang (2018-2021), *now at Huaxia Bank*, **Outstanding Graduate**
 	- Xiaoyi Han (2018-2021), *now at Beijing Urban Construction Design & Development Group Co., Limited*
-	- Jiaxin Ren (2018-2021), *now at Ali Baba Network Technology Co.,Ltd*
+	- Jiaxin Ren (2018-2021), *now at Ali Baba Network Technology Co., Ltd*
 	- Cihang Cheng (2019-2022), *now at China Telecom System Integration Co., Ltd.*, **Municipal Outstanding Graduated Student**
 	- Tianzhuang Zhang (2019-2022), *now at ByteDance*
 
 * **Ph.D.**:
 	- Rida El Chall (2012-2015, in assistance to Prof. Maryline Hélard and Prof. Fabienne Nouvel, INSA-Rennes) 
+
+---
+## Teaching
+* **“Assembly Language & Computer Interface”**   
+	64 hours undergraduate course in BJTU, since 2017 fall
+* **“Algorithms”**                
+	24 hours postgraduate course in BJTU, since 2019 fall
+* **“Electronics”** 
+	63 hours undergraduate experiment course in INSA-Rennes in 2013
+	Obtained teaching qualification in French universities (“*La qualification aux fonctions de maître de conférences*”, section 61, in the field of computer science, automatics & signal processing) 
 
 ---
 ## Award
