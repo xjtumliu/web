@@ -46,12 +46,12 @@ I'm now interested in the application of the recent advances of AI to the fundam
 
 * **Graduated Mater students**:
 	- Xiaoyi Wang (2015-2017), *now at China Railway Fifth Survey and Design Institute Group*, **Outstanding Master Thesis**
-	- Qing Wang (2015-2018, co-advised with Prof. Z. Zhong), *now at Huawei Technologies* 
+	- Qing Wang (2015-2018, co-advised with Prof. Z.D. Zhong), *now at Huawei Technologies* 
 	- Li Xu (2016-2019), *now at People's Bank of China* 
 	- Nian Liu (2017-2020), *now at China Merchants Bank* 
 	- Yawen Zheng (2017-2020), *now at Huaxia Bank* 
 	- Lanlan Wei (2017-2019), *now at Chinese Academy of Sciences* 
-	- Mingshan Zhang (2017-2020, co-advised with Prof. Z. Zhong), *now at Intel Research Center* 
+	- Mingshan Zhang (2017-2020, co-advised with Prof. Z.D. Zhong), *now at Intel Research Center* 
 	- Junxia Zhang (2018-2021), *now at Huaxia Bank*, **Outstanding Graduate**
 	- Xiaoyi Han (2018-2021), *now at Beijing Urban Construction Design & Development Group Co., Limited*
 	- Jiaxin Ren (2018-2021), *now at Ali Baba Network Technology Co.,Ltd*
