@@ -12,7 +12,7 @@ is_contact: true
 
 		Communication over long-range has always been a major challenge for passive backscatter devices due to the round-trip channel attenuation nature of the backscatter communication. The classical UHD RFID system can usually cover a range of <10 m. 3GPP started investigating the low rate backscatter communication over 50 m in its new study item "<font><em>Study on solutions for Ambient IoT in NR</em></font>" with a potential target on Release-19. Our research efforts lie in the joint optimization of frame structure, multiple access and transceiver design. More details of our vision can be found in our 3GPP document entitled "<font style="color: #c81286">Multiple access and backscatter consideration for R19 ambient IoT</font>" (<a href="https://www.3gpp.org/ftp/tsg_ran/TSG_RAN/TSGR_102/Docs/RP-233518.zip">3GPP RP-233518</a>). 
 	<figure>
-	   	<img class='center' src='AIoT.jpg' alt='AIoT.' style="width:400px;" />
+	   	<img class='center' src='AIoT.jpg' alt='AIoT.' style="width:500px;" />
 	   	<figcaption><font style="color: rgb(60,135,200)"><U>Our proposal of receiver structure for advanced backscatter communication</U></font>.</figcaption>
 	</figure>
 	- High-speed passive backscatter communication over a range of meters 
@@ -38,7 +38,7 @@ Various IoT applications are penetrating many aspects of our daily life. IoT is 
 
 	<figure>
 	    <img class="center" src="DCTF.jpg" style="width:120px;" />
-	    <figcaption><U>An example of differential constellation trace figure</U>.</figcaption>
+	    <figcaption><font style="color: rgb(60,135,200)"><U>An example of differential constellation trace figure</U></font>.</figcaption>
 	</figure>
 
 	- **Bidirectional device identification based on RFF for IoT scenarios**
@@ -47,7 +47,7 @@ Various IoT applications are penetrating many aspects of our daily life. IoT is 
 
 	<figure>
 	    <img class="center" src="bidirectional.png" style="width:550px;" />
-	    <figcaption><U>A bidirectional device identification framework</U>.</figcaption>
+	    <figcaption><font style="color: rgb(60,135,200)"><U>A bidirectional device identification framework</U></font>.</figcaption>
 	</figure>
 
 	- **RFF impersonation and countermeasures**
@@ -55,7 +55,7 @@ Various IoT applications are penetrating many aspects of our daily life. IoT is 
 		RFF may be impersonated by adversaries to circumvent the authentication method. Anti-spoofing techniques (e.g. liveness detection) have been investigated for similar authentication mechanisms such as facial or fingerprint recognition. However, the detection of RFF impersonation attacks is highly insufficient in the existing research. This work will study the possibility that malicious users impersonate legitimate users' RFF by adversarial learning. To overcome the problem that each device, including the legitimate users and malicious users, has unique hardware imperfections in both transmission and reception circuits and the response caused by these imperfections can hardly be calibrated by the device itself, this work proposes to introduce a cooperative attacker that serves as a 'spectator' or 'critic' to help the malicious users to impersonate their RFFs. A Generative Adversarial Network (GAN) based cooperative RFF spoofing method is proposed, which can generate high-fidelity RFFs that look alike to the targeted legitimate users. Countermeasures will be proposed to effectively detect the RFF spoofing or increase the sophistication of RFF that can incapacitate the RFF impersonation attacks.  
 	<figure>
 	    <img class='center' src='spoofing_attack.png' alt='spoofing attack' style="width:400px;" />
-	    <figcaption><U>Spoofing attack with a cooperative attacker</U>.</figcaption>
+	    <figcaption><font style="color: rgb(60,135,200)"><U>Spoofing attack with a cooperative attacker</U></font>.</figcaption>
 	</figure>
 	
 ---
