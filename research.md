@@ -35,7 +35,6 @@ Various IoT applications are penetrating many aspects of our daily life. IoT is 
 	- **Robust radio frequency fingerprint (RFF) extraction**
 
 		Existing researches on RFF mainly focus on extracting unique features caused by certain device imperfections (e.g. carrier frequency offset, I/Q imbalances, nonlinearity, frequency response, etc.), and visualizing them through some processing (e.g. Fourier, wavelet, Hilbert-Huang transforms and correlations). Recent advances have adopted machine learning techniques to identify the visualized features. However, most works considered only one feature. Hence, they are not resilient to channel uncertainty, and the capacity of identification is limited. This work will propose new machine learning models that integrate multiple signal features to achieve higher identification accuracy and robustness. 
-
    	<figure>
 	    <center><img class="center" src="DCTF.jpg" style="width:120px;" /></center>
 	    <figcaption><font style="color: rgb(60,135,200)"><U>An example of differential constellation trace figure</U></font>.</figcaption>
@@ -53,7 +52,6 @@ Various IoT applications are penetrating many aspects of our daily life. IoT is 
 	- **Bidirectional device identification based on RFF for IoT scenarios**
 
 		Existing researches on Radio Frequency Fingerprint (RFF) mainly focus on unilateral device identification in one communication direction. However, in practice, it is difficult for IoT devices to identify the base station due to their hardware insufficiencies. This work investigates the bidirectional device identification method for IoT application scenarios. The inherent reciprocity of the communication pair's RFFs is studied and exploited to offload the learning process, which is supposed to be proceeded by the IoT device, to the base station. The autoencoder-based RFF reciprocal conversion network is devised to predict the downlink RFF based on the data samples acquired in the uplink, so that the training process of the downlink identification network can be accomplished by the base station and the computational complexity of IoT devices is reduced. Evaluations with real-world data show that IoT devices can achieve high accuracy in identifying the base station using the identification network trained by the base station. 
-
    	<figure>
 	    <center><img class="center" src="bidirectional.png" style="width:550px;" /></center>
 	    <figcaption><font style="color: rgb(60,135,200)"><U>A bidirectional device identification framework</U></font>.</figcaption>
@@ -96,8 +94,8 @@ Various IoT applications are penetrating many aspects of our daily life. IoT is 
 		+ Training deep neural networks
 	- High-accuracy 2-D localization based on dual RFID tags and antenna array
 	<figure>
-	    <center><img class='center' src='Ante_Tag_Model.png' alt='localization based on dual tag and antenna array' style="width:400px;" /></center>
-	    <figcaption><font style="color: rgb(60,135,200)"><U>High-accuracy localization based on dual RFID tags and antenna array.</U></font>.</figcaption>
+	  	<center><img class='center' src='Ante_Tag_Model.png' alt='localization based on dual tag and antenna array' style="width:500px;" /></center>
+   	   	<figcaption><font style="color: rgb(60,135,200)"><U>High-accuracy localization based on dual RFID tags and antenna array</U></font>.</figcaption>
 	</figure>
 
 ---
