@@ -10,7 +10,7 @@ is_contact: true
 * <U>Project Objective</U>: Devise backscatter communication techniques for ambient IoT 
 	- Long-range passive backscatter communication 
 
-		Communication over long-range has always been a major challenge for passive backscatter devices due to the round-trip channel attenuation nature of the backscatter communication. The classical UHD RFID system can usually cover a range of <10 m. 3GPP started investigating the low rate backscatter communication over 50 m in its new study item "*Study on solutions for Ambient IoT in NR*" with a potential target on Release-19. Our research efforts lie in the joint optimization of frame structure, multiple access and transceiver design. More details of our vision can be found in our 3GPP document entitled "*Multiple access and backscatter consideration for R19 ambient IoT*" (<a href="https://www.3gpp.org/ftp/tsg_ran/TSG_RAN/TSGR_102/Docs/RP-233518.zip">3GPP RP-233518</a>). 
+		Communication over long-range has always been a major challenge for passive backscatter devices due to the round-trip channel attenuation nature of the backscatter communication. The classical UHD RFID system can usually cover a range of <10 m. 3GPP started investigating the low rate backscatter communication over 50 m in its new study item "*<p style="color: #c81286">Study on solutions for Ambient IoT in NR</p>*" with a potential target on Release-19. Our research efforts lie in the joint optimization of frame structure, multiple access and transceiver design. More details of our vision can be found in our 3GPP document entitled "*Multiple access and backscatter consideration for R19 ambient IoT*" (<a href="https://www.3gpp.org/ftp/tsg_ran/TSG_RAN/TSGR_102/Docs/RP-233518.zip">3GPP RP-233518</a>). 
 	<figure>
 	   	<img class='center' src='AIoT.jpg' alt='AIoT.' style="width:400px;" />
 	   	<figcaption><U>Our proposal of receiver structure for advanced backscatter communication</U>.</figcaption>
@@ -80,7 +80,7 @@ Various IoT applications are penetrating many aspects of our daily life. IoT is 
 
 ---
 ### Spatial Localization based on RFID
-*PI*, *03/2018 - 06/2022*
+*ZhongJing Co., Ltd. sponsored project*, *PI*, *03/2018 - 06/2022*
 * <U>Project Objective</U>: Devise deep learning-based algorithm to determine the location of RFID labels for potential IoT applications including automatic dispatch systems and high-accuracy indoor positioning
 	- AI-based 1-D localization for automatic dispatch systems
 		+ Acquire large amounts of RFID signal samples, clean data, annotate labels
