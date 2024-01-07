@@ -47,7 +47,7 @@ Various IoT applications are penetrating many aspects of our daily life. IoT is 
 
 	<figure>
 	    <img class="center" src="channel_invariant_RFF.png" style="width:400px;" />
-	    <figcaption><font style="color: rgb(60,135,200)"><U>RFFs extracted in various locations show significant similarity</U></font>.</figcaption>
+	    <figcaption><font style="color: rgb(60,135,200)"><U>RFFs with compensation show significant similarity across various locations</U></font>.</figcaption>
 	</figure>
 
 	- **Bidirectional device identification based on RFF for IoT scenarios**
@@ -63,7 +63,7 @@ Various IoT applications are penetrating many aspects of our daily life. IoT is 
 
 		RFF may be impersonated by adversaries to circumvent the authentication method. Anti-spoofing techniques (e.g. liveness detection) have been investigated for similar authentication mechanisms such as facial or fingerprint recognition. However, the detection of RFF impersonation attacks is highly insufficient in the existing research. This work will study the possibility that malicious users impersonate legitimate users' RFF by adversarial learning. To overcome the problem that each device, including the legitimate users and malicious users, has unique hardware imperfections in both transmission and reception circuits and the response caused by these imperfections can hardly be calibrated by the device itself, this work proposes to introduce a cooperative attacker that serves as a 'spectator' or 'critic' to help the malicious users to impersonate their RFFs. A Generative Adversarial Network (GAN) based cooperative RFF spoofing method is proposed, which can generate high-fidelity RFFs that look alike to the targeted legitimate users. Countermeasures will be proposed to effectively detect the RFF spoofing or increase the sophistication of RFF that can incapacitate the RFF impersonation attacks.  
 	<figure>
-	    <img class='center' src='spoofing_attack.png' alt='spoofing attack' style="width:400px;" />
+	    <img class='center' src='spoofing_attack.png' alt='spoofing attack' style="width:500px;" />
 	    <figcaption><font style="color: rgb(60,135,200)"><U>Spoofing attack with a cooperative attacker</U></font>.</figcaption>
 	</figure>
 	
