@@ -65,9 +65,11 @@ I'm now interested in the application of the recent advances of AI to the fundam
 ## Teaching
 * **“Assembly Language & Computer Interface”**   
 	64 hours undergraduate course in BJTU, since 2017 fall
+
 * **“Algorithms”**                
 	24 hours postgraduate course in BJTU, since 2019 fall
-* **“Electronics”** 
+
+* **“Electronics”**
 	63 hours undergraduate experiment course in INSA-Rennes in 2013
 	Obtained teaching qualification in French universities (“*La qualification aux fonctions de maître de conférences*”, section 61, in the field of computer science, automatics & signal processing) 
 
