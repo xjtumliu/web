@@ -63,16 +63,23 @@ is_contact: true
 
 
 ### Patent:
-1. **M. Liu**, X. Han, L. Wei, *et al.* “A radio frequency fingerprinting method based on differential constellation trace figure with multiple differential intervals,” *Chinese Invention Patent, No. 201911317866.4*, Dec. 19, 2019.  **Granted**.
-2. **M. Liu**, N. Liu, Q. Wang, “Non-orthogonal multiple access based on massive MIMO,” *Chinese Invention Patent, No. 201810485402.3*, May 21, 2018. **Granted**.
-3. **M. Liu**, X. Wang, D. Wang, “Active eavesdropping detection for massive MIMO systems based on random symbols,” *Chinese Invention Patent, No. 201610972844.1*, Nov. 7, 2016. **Granted**. 
-4. **M. Liu**, N. Liu, W. Xue, *et al.* “A RFID localization method based on deep learning,” *Chinese Invention Patent application, No. 201910591425.7*, Jul. 3, 2019. 
+<U>Granted</U>:
+1. **M. Liu**, Y. Xu, J. Ren, *et al.* “An LSTM-based non-linearity mitigation method for visible light communication (VLC) systems,” *Chinese Invention Patent, No. 202110906991.X*, Aug. 9, 2021.
+2. **M. Liu**, J. Zhang, K. Xiong, *et al.* “A power control method for uplink MISO-NOMA,” *Chinese Invention Patent, No. 202110973495.6*, Aug. 24, 2021. 
+3. **M. Liu**, X. Han, L. Wei, *et al.* “A radio frequency fingerprinting method based on differential constellation trace figure with multiple differential intervals,” *Chinese Invention Patent, No. 201911317866.4*, Dec. 19, 2019.  
+4. **M. Liu**, N. Liu, W. Xue, *et al.* “A RFID localization method based on deep learning,” *Chinese Invention Patent application, No. 201910591425.7*, Jul. 3, 2019.
 5. **M. Liu**, C. Cheng, T. Zhang, *et al.* “A tool monitor system based on RFID,” *Chinese Invention Patent application, No. 201911080688.8*, Nov. 7, 2019. 
-6. **M. Liu**, Y. Xu, J. Ren, *et al.* “An LSTM-based non-linearity mitigation method for visible light communication (VLC) systems,” *Chinese Invention Patent application, No. 202110906991.X*, Aug. 9, 2021. 
-7. **M. Liu**, J. Zhang, K. Xiong, *et al.* “A power control method for uplink MISO-NOMA,” *Chinese Invention Patent application, No. 202110973495.6*, Aug. 24, 2021. 
-8. L. Zhang, Y. Zhang. X. Li, **M. Liu**,  *et al.* “Wireless device authentication platform based on radio frequency fingerprint,” *Registration of Computer Software Copyright*, Feb. 25, 2019. **Granted**. 
-9. **M. Liu**, X. Wang, X. Han, *et al.* “A radio frequency fingerprint extractrion method based on multiple feature fusion with attention mechanism,” *Chinese Invention Patent application, No. 202111148113.2*, 2021. 
-10. **M. Liu**, H. Luo, T. Zhang, *et al.* “A radio frequency fingerprint extractrion method for wireless devices based on multi-path compensation,” *Chinese Invention Patent application, No. 202310715769.0*, 2023. 
-11. Y. Xu, G. Wang, **M. Liu**, T. Xu, *et al.* “Method, aparatus, and device of carrier frequency estimation and backscatter communications,” *Chinese Invention Patent application, No.  202310334994.X*, 2023. 
+6. **M. Liu**, N. Liu, Q. Wang, “Non-orthogonal multiple access based on massive MIMO,” *Chinese Invention Patent, No. 201810485402.3*, May 21, 2018.  
+7. **M. Liu**, X. Wang, D. Wang, “Active eavesdropping detection for massive MIMO systems based on random symbols,” *Chinese Invention Patent, No. 201610972844.1*, Nov. 7, 2016.  
+8. L. Zhang, Y. Zhang. X. Li, **M. Liu**,  *et al.* “Wireless device authentication platform based on radio frequency fingerprint,” *Registration of Computer Software Copyright*, Feb. 25, 2019. 
+
+<U>Under review</U>:
+1. **M. Liu**, X. Wang, X. Han, *et al.* “A radio frequency fingerprint extraction method based on multiple feature fusion with attention mechanism,” *Chinese Invention Patent application, No. 202111148113.2*, 2021. 
+2. **M. Liu**, H. Luo, T.Z. Zhang, *et al.* “A radio frequency fingerprint extraction method for wireless devices based on multi-path compensation,” *Chinese Invention Patent application, No. 202310715769.0*, 2023. 
+3. Y.T. Xu, G.P Wang, **M. Liu**, T. Xu, *et al.* “Method, apparatus, and device of carrier frequency estimation and backscatter communications,” *Chinese Invention Patent application, No.  202310334994.X*, 2023. 
+4. R.T. Xu, J.L. Lin, G.P. Wang, **M. Liu**, et al. “A backscatter communication method between different communication devices,” *Chinese Invention Patent*, 202311182119.0, 2023. 
+5. Z.Q. Cui, G.P. Wang, R.T. Xu, **M. Liu**, et al. “Method, apparatus and medium for adaptive iterative decision,” *Chinese Invention Patent*, 202311862871.X, 2023. 
+6. Z.Q. Cui, G.P. Wang, **M. Liu**, et al. “Method, apparatus and medium for baseband signal interference mitigation,” *Chinese Invention Patent*, 202311862421.0, 2023. 
+
 
 <a href="#" class="btn btn-success">Back to Top</a>
