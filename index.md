@@ -70,7 +70,8 @@ I'm now interested in the application of the recent advances of AI to the fundam
 	24 hours postgraduate course in BJTU, since 2019 fall
 
 * **“Electronics”**
-	63 hours undergraduate experiment course in INSA-Rennes in 2013
+	63 hours undergraduate experiment course in INSA-Rennes in 2013	
+	
 	Obtained teaching qualification in French universities (“*La qualification aux fonctions de maître de conférences*”, section 61, in the field of computer science, automatics & signal processing) 
 
 ---
