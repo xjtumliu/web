@@ -37,7 +37,7 @@ I'm now interested in the application of the recent advances of AI to the fundam
 
 ---
 ## Advising
-* **Current Master students**:
+* **Current students**: 
 	- Yuxuan Xu (2021-)
 	- Hui Luo (2022-)
 	- Jiali Xia (2022-)
@@ -45,26 +45,28 @@ I'm now interested in the application of the recent advances of AI to the fundam
 	- Shuo Feng (2022-)
 	- Bingjie Jiang (2023-)
 	- Xin Fang (2023-)
+	- Yan Wang (2023-)
 
-* **Alumni**:
-    <U>Mater students</U>:
-	- Xiaoyi Wang (2015-2017), *now at China Railway Fifth Survey and Design Institute Group*, **Outstanding Master Thesis**
-	- Qing Wang (2015-2018, co-advised with Prof. Z.D. Zhong), *now at Huawei Technologies* 
-	- Li Xu (2016-2019), *now at People's Bank of China* 
-	- Nian Liu (2017-2020), *now at China Merchants Bank* 
-	- Yawen Zheng (2017-2020), *now at Huaxia Bank* 
-	- Lanlan Wei (2017-2019), *now at Chinese Academy of Sciences* 
-	- Mingshan Zhang (2017-2020, co-advised with Prof. Z.D. Zhong), *now at Intel Research Center* 
-	- Junxia Zhang (2018-2021), *now at Huaxia Bank*, **Outstanding Graduate**
-	- Xiaoyi Han (2018-2021), *now at Beijing Urban Construction Design & Development Group Co., Limited*
-	- Jiaxin Ren (2018-2021), *now at Ali Baba Network Technology Co., Ltd*
-	- Huidong Lyu (2018-2021), *now at JD.com, Inc.*
-	- Han Chen (2018-2021), *now at China International Capital Corporation （CICC）*
-	- Cihang Cheng (2019-2022), *now at China Telecom System Integration Co., Ltd.*, **Municipal Outstanding Graduated Student**
-	- Tianzhuang Zhang (2019-2022), *now at ByteDance*
+* **Alumni**: 
+    <U>Master</U>:
+	- Xiaoyi Wang (M.E., 2015-2017), *now at China Railway Fifth Survey and Design Institute Group*, **Outstanding Master Thesis**
+	- Qing Wang (M.S., 2015-2018, co-advised with Prof. Z.D. Zhong), *now at Huawei Technologies* 
+	- Li Xu (M.S., 2016-2019), *now at the People's Bank of China* 
+	- Nian Liu (M.S., 2017-2020), *now at China Merchants Bank* 
+	- Yawen Zheng (M.S., 2017-2020), *now at Huaxia Bank* 
+	- Lanlan Wei (M.E., 2017-2019), *now at Chinese Academy of Sciences* 
+	- Mingshan Zhang (M.S., 2017-2020, co-advised with Prof. Z.D. Zhong), *now at Intel Research Center* 
+	- Junxia Zhang (M.S., 2018-2021), *now at Huaxia Bank*, **Outstanding Graduate**
+	- Xiaoyi Han (M.S., 2018-2021), *now at Beijing Urban Construction Design & Development Group Co., Limited*
+	- Jiaxin Ren (M.S., 2018-2021), *now at Ali Baba Network Technology Co., Ltd*
+	- Huidong Lyu (M.E., 2018-2021), *now at JD.com, Inc.*
+	- Han Chen (M.E., 2018-2021), *now at China International Capital Corporation （CICC）*
+	- Cihang Cheng (M.S., 2019-2022), *now at China Telecom System Integration Co., Ltd.*, **Municipal Outstanding Graduated Student**
+	- Tianzhuang Zhang (M.S., 2019-2022), *now at ByteDance*
+	- Xin Wang (M.S., 2020-2023)
 
     <U>Ph.D.</U>:
-	- Rida El Chall (2012-2015, in assistance to Prof. Maryline Hélard and Prof. Fabienne Nouvel, INSA-Rennes) 
+	- Rida El Chall (2012-2015, in assistance to Prof. Maryline Hélard and Prof. Fabienne Nouvel, INSA-Rennes, *now as Assistant Professor with Lebanese University*) 
 
 ---
 ## Teaching
