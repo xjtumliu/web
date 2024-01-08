@@ -38,13 +38,16 @@ I'm now interested in the application of the recent advances of AI to the fundam
 ---
 ## Advising
 * **Current Master students**:
-	- Yuxuan Xu (2021-2024)
-	- Hui Luo (2022-2024)
-	- Jiali Xia (2022-2024)
-	- Nian Wang (2022-2025)
-	- Bingjie Jiang (2023-2026)
+	- Yuxuan Xu (2021-)
+	- Hui Luo (2022-)
+	- Jiali Xia (2022-)
+	- Nian Wang (2022-)
+	- Shuo Feng (2022-)
+	- Bingjie Jiang (2023-)
+	- Xin Fang (2023-)
 
-* **Graduated Mater students**:
+* **Alumni**:
+    <U>Mater students</U>:
 	- Xiaoyi Wang (2015-2017), *now at China Railway Fifth Survey and Design Institute Group*, **Outstanding Master Thesis**
 	- Qing Wang (2015-2018, co-advised with Prof. Z.D. Zhong), *now at Huawei Technologies* 
 	- Li Xu (2016-2019), *now at People's Bank of China* 
@@ -55,10 +58,12 @@ I'm now interested in the application of the recent advances of AI to the fundam
 	- Junxia Zhang (2018-2021), *now at Huaxia Bank*, **Outstanding Graduate**
 	- Xiaoyi Han (2018-2021), *now at Beijing Urban Construction Design & Development Group Co., Limited*
 	- Jiaxin Ren (2018-2021), *now at Ali Baba Network Technology Co., Ltd*
+	- Huidong Lyu (2018-2021), *now at JD.com, Inc.*
+	- Han Chen (2018-2021), *now at China International Capital Corporation （CICC）*
 	- Cihang Cheng (2019-2022), *now at China Telecom System Integration Co., Ltd.*, **Municipal Outstanding Graduated Student**
 	- Tianzhuang Zhang (2019-2022), *now at ByteDance*
 
-* **Ph.D.**:
+    <U>Ph.D.</U>:
 	- Rida El Chall (2012-2015, in assistance to Prof. Maryline Hélard and Prof. Fabienne Nouvel, INSA-Rennes) 
 
 ---
