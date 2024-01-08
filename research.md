@@ -20,7 +20,7 @@ is_contact: true
 		The classical UHD RFID system only supports a communication rate of several to a few hundred kbps, which limits the backscatter communication in simple data collection applications like inventory and tracking. The backscatter communication technology can be envisioned to be applied in more energy-constrained scenarios with higher data-rate requirements. We developed an SDR-based hardware platform with baseband signal processing techniques including detection, synchronization, equalization, interference cancellation, demodulation etc. Accordingly, we are continuously improving the hardware of our own backscatter devices (advanced backscatter tags) to achieve higher communication rates. Experimental results show that the hardware platform can communicate with our tag at transmission rates as high as 5~10 Mbps over a range of a few meters.
 	<figure>
 	   	<center><img class='center' src='BackscatterComm.png' alt='Backscatter communication platform with >5 Mbps rate over air interface.' style="width:350px;" /></center>
-	   	<figcaption><font style="color: rgb(60,135,200)"><U>Backscatter communication platform with >5 Mbps rate over air interface</U></font>.</figcaption>
+	   	<center><figcaption><font style="color: rgb(60,135,200)"><U>Backscatter communication platform with >5 Mbps rate over air interface</U></font>.</figcaption></center>
 	</figure>
 	
 	- RF self-interference cancellation (SIC) for mono-static backscatter communications
@@ -37,7 +37,7 @@ Various IoT applications are penetrating many aspects of our daily life. IoT is 
 		Existing researches on RFF mainly focus on extracting unique features caused by certain device imperfections (e.g. carrier frequency offset, I/Q imbalances, nonlinearity, frequency response, etc.), and visualizing them through some processing (e.g. Fourier, wavelet, Hilbert-Huang transforms and correlations). Recent advances have adopted machine learning techniques to identify the visualized features. However, most works considered only one feature. Hence, they are not resilient to channel uncertainty, and the capacity of identification is limited. This work will propose new machine learning models that integrate multiple signal features to achieve higher identification accuracy and robustness. 
 	<figure>
 		<center><img class="center" src="DCTF.jpg" style="width:120px;" /></center>
-	   	<figcaption><font style="color: rgb(60,135,200)"><U>An example of differential constellation trace figure</U></font>.</figcaption>
+	   	<center><figcaption><font style="color: rgb(60,135,200)"><U>An example of differential constellation trace figure</U></font>.</figcaption></center>
 	</figure>
 
 	- **Channel-invariant RFF extraction for OFDM systems**
@@ -53,7 +53,7 @@ Various IoT applications are penetrating many aspects of our daily life. IoT is 
 		Existing researches on Radio Frequency Fingerprint (RFF) mainly focus on unilateral device identification in one communication direction. However, in practice, it is difficult for IoT devices to identify the base station due to their hardware insufficiencies. This work investigates the bidirectional device identification method for IoT application scenarios. The inherent reciprocity of the communication pair's RFFs is studied and exploited to offload the learning process, which is supposed to be proceeded by the IoT device, to the base station. The autoencoder-based RFF reciprocal conversion network is devised to predict the downlink RFF based on the data samples acquired in the uplink, so that the training process of the downlink identification network can be accomplished by the base station and the computational complexity of IoT devices is reduced. Evaluations with real-world data show that IoT devices can achieve high accuracy in identifying the base station using the identification network trained by the base station. 
 	<figure>
 		<center><img class="center" src="bidirectional.png" style="width:550px;" /></center>
-	   	<figcaption><font style="color: rgb(60,135,200)"><U>A bidirectional device identification framework</U></font>.</figcaption>
+	   	<center><figcaption><font style="color: rgb(60,135,200)"><U>A bidirectional device identification framework</U></font>.</figcaption></center>
 	</figure>
 
 	- **RFF impersonation and countermeasures**
@@ -61,7 +61,7 @@ Various IoT applications are penetrating many aspects of our daily life. IoT is 
 		RFF may be impersonated by adversaries to circumvent the authentication method. Anti-spoofing techniques (e.g. liveness detection) have been investigated for similar authentication mechanisms such as facial or fingerprint recognition. However, the detection of RFF impersonation attacks is highly insufficient in the existing research. This work will study the possibility that malicious users impersonate legitimate users' RFF by adversarial learning. To overcome the problem that each device, including the legitimate users and malicious users, has unique hardware imperfections in both transmission and reception circuits and the response caused by these imperfections can hardly be calibrated by the device itself, this work proposes to introduce a cooperative attacker that serves as a 'spectator' or 'critic' to help the malicious users to impersonate their RFFs. A Generative Adversarial Network (GAN) based cooperative RFF spoofing method is proposed, which can generate high-fidelity RFFs that look alike to the targeted legitimate users. Countermeasures will be proposed to effectively detect the RFF spoofing or increase the sophistication of RFF that can incapacitate the RFF impersonation attacks.  
 	<figure>
 		<center><img class='center' src='spoofing_attack.png' alt='spoofing attack' style="width:500px;" /></center>
-	   	<figcaption><font style="color: rgb(60,135,200)"><U>Spoofing attack with a cooperative attacker</U></font>.</figcaption>
+	   	<center><figcaption><font style="color: rgb(60,135,200)"><U>Spoofing attack with a cooperative attacker</U></font>.</figcaption></center>
 	</figure>
 	
 ---
@@ -94,7 +94,7 @@ Various IoT applications are penetrating many aspects of our daily life. IoT is 
 	- High-accuracy 2-D localization based on dual RFID tags and antenna array  
 	<figure>
 		<center><img class='center' src='Ante_Tag_Model.png' alt='localization based on dual tag and antenna array' style="width:500px;" /></center>
-   	   	<figcaption><font style="color: rgb(60,135,200)"><U>High-accuracy localization based on dual RFID tags and antenna array</U></font>.</figcaption>
+   	   	<center><figcaption><font style="color: rgb(60,135,200)"><U>High-accuracy localization based on dual RFID tags and antenna array</U></font>.</figcaption></center>
 	</figure>
 
 ---
