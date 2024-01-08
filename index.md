@@ -48,7 +48,7 @@ I'm now interested in the application of the recent advances of AI to the fundam
 	- Yan Wang (2023-)
 
 * **Alumni**:     
- 	<U>Master</U>:
+	<U>Master</U>:
 	- Xiaoyi Wang (M.E., 2015-2017), *now at China Railway Fifth Survey and Design Institute Group*, **Outstanding Master Thesis**
 	- Qing Wang (M.S., 2015-2018, co-advised with Prof. Z.D. Zhong), *now at Huawei Technologies* 
 	- Li Xu (M.S., 2016-2019), *now at the People's Bank of China* 
