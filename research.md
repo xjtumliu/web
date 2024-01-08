@@ -13,7 +13,7 @@ is_contact: true
 		Communication over long-range has always been a major challenge for passive backscatter devices due to the round-trip channel attenuation nature of the backscatter communication. The classical UHD RFID system can usually cover a range of <10 m. 3GPP started investigating the low rate backscatter communication over 50 m in its new study item "<font><em>Study on solutions for Ambient IoT in NR</em></font>" with a potential target on Release-19. Our research efforts lie in the joint optimization of frame structure, multiple access and transceiver design. More details of our vision can be found in our 3GPP document entitled "<font style="color: #c81286">Multiple access and backscatter consideration for R19 ambient IoT</font>" (<a href="https://www.3gpp.org/ftp/tsg_ran/TSG_RAN/TSGR_102/Docs/RP-233518.zip">3GPP RP-233518</a>). 
 	<figure>
 	   	<center><img class='center' src='AIoT.jpg' alt='AIoT.' style="width:550px;" /></center>
-	   	<figcaption><font style="color: rgb(60,135,200)"><U>Our proposal of receiver structure for advanced backscatter communication</U></font>.</figcaption>
+	   	<center><figcaption><font style="color: rgb(60,135,200)"><U>Our proposal of receiver structure for advanced backscatter communication</U></font>.</figcaption></center>
 	</figure>
 	- High-speed passive backscatter communication over a range of meters 
 
