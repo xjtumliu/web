@@ -89,9 +89,9 @@ Various IoT applications are penetrating many aspects of our daily life. IoT is 
 *ZhongJing Co., Ltd. sponsored project*, *PI*, *03/2018 - 06/2022*
 * <U>Project Objective</U>: Devise deep learning-based algorithm to determine the location of RFID labels for potential IoT applications including automatic dispatch systems and high-accuracy indoor positioning
 	- AI-based 1-D localization for automatic dispatch systems
-		+ Acquire large amounts of RFID signal samples, clean data, annotate labels
-		+ Training deep neural networks
-	- High-accuracy 2-D localization based on dual RFID tags and antenna array  
+		The commercial RFID reader can obtain the RSSI and phase information of the surrounding RFID tags in the interrogation process. The information can be exploited to localize the position of the RFID tags in the 1-D, 2-D or 3-D space. This research began by investigating the relative position of the tags in 1-dimension. A convolutional neural network (CNN) based localization algorithm was proposed to accurately determine the relative position of the moving RFID tags in a line. This makes automated dispatch possible for modern logistics systems. The method is validated by the real RFID signal samples captured in the working environment. 
+	- High-accuracy 2-D localization based on dual RFID tags and antenna array 
+		To achieve high-accuracy 2-D localization, this work proposes a dual-RFID-tag-based localization algorithm with multiple observation points. To tackle the phase ambiguity problem of the phase-based localization method, we propose to use the large observation aperture formed by reader antennas to achieve high accuracy and use the small observation aperture formed by dual RFID tags to eliminate phase ambiguity. Experimental results show that the proposed method can achieve centimeter-level localization accuracy, outperforming localization methods with similar hardware settings.
 	<figure>
 		<center><img class='center' src='Ante_Tag_Model.png' alt='localization based on dual tag and antenna array' style="width:500px;" /></center>
    	   	<center><figcaption><font style="color: rgb(60,135,200)"><U>High-accuracy localization based on dual RFID tags and antenna array</U></font>.</figcaption></center>
