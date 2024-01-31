@@ -25,7 +25,7 @@ I'm now interested in the application of the recent advances of AI to the fundam
 ## Skill
 
 * **Telecom**:		
-			Passive	backscatter communication, RF interference cancellation, massive-MIMO, OFDM, space-time coding, channel estimation, random access, physical layer security, optical fiber communications  
+			Passive	backscatter communication, RF interference cancellation, physical layer security, massive-MIMO, OFDM, space-time coding, channel estimation, random access, optical fiber communications  
 * **Systems**:
 			GSM, LTE, RFID, DVB-T/T2/NGH, DTMB 
 * **AI**: 
@@ -57,10 +57,10 @@ I'm now interested in the application of the recent advances of AI to the fundam
 	- Lanlan Wei (M.E., 2017-2019), *now at Chinese Academy of Sciences* 
 	- Mingshan Zhang (M.S., 2017-2020, co-advised with Prof. Z.D. Zhong), *now at Intel Research Center* 
 	- Junxia Zhang (M.S., 2018-2021), *now at Huaxia Bank*, **Outstanding Graduate**
-	- Xiaoyi Han (M.S., 2018-2021), *now at Beijing Urban Construction Design & Development Group Co., Limited*
+	- Xiaoyi Han (M.S., 2018-2021), *now at Beijing Urban Construction Design & Development Group Co., Ltd*
 	- Jiaxin Ren (M.S., 2018-2021), *now at Ali Baba Network Technology Co., Ltd*
 	- Huidong Lyu (M.E., 2018-2021), *now at JD.com, Inc.*
-	- Han Chen (M.E., 2018-2021), *now at China International Capital Corporation （CICC）*
+	- Han Chen (M.E., 2018-2021), *now at China International Capital Corporation (CICC)*
 	- Cihang Cheng (M.S., 2019-2022), *now at China Telecom System Integration Co., Ltd.*, **Municipal Outstanding Graduated Student**
 	- Tianzhuang Zhang (M.S., 2019-2022), *now at ByteDance*
 	- Xin Wang (M.S., 2020-2023)
@@ -85,7 +85,7 @@ I'm now interested in the application of the recent advances of AI to the fundam
 ## Award
 - 2022  **Beijing Municipal Higher Education Achievement Award**, **Second Prize** (4/15)
 - 2021  **Special Award for Undergraduate Teaching Achievement of Beijing Jiaotong University**, (4/15)
-- 2021  **Undergraduate Education Achievement Award of Beijing Jiaotong University**, **Second Prize** (1/6), (2/5)
+- 2021  **Undergraduate Education Achievement Award of Beijing Jiaotong University**, **Second Prize**x2, (1/6), (2/5)
 - 2021  **Postgraduate Education Achievement Award of Beijing Jiaotong University**, **First Prize** (8/11)
 - 2021	**China Railway Society Science and Technology Progress Award**, **Second Prize** (4/20)
 - 2020	**Excellent Bachelor thesis prize of Beijing Jiaotong University** (for Mr. Lei Zhang’s thesis)
