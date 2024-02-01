@@ -73,14 +73,14 @@ is_contact: true
 6. **M. Liu**, N. Liu, Q. Wang, “Non-orthogonal multiple access based on massive MIMO,” *Chinese Invention Patent, No. 201810485402.3*, May 21, 2018.  
 7. **M. Liu**, X. Wang, D. Wang, “Active eavesdropping detection for massive MIMO systems based on random symbols,” *Chinese Invention Patent, No. 201610972844.1*, Nov. 7, 2016.  
 8. L. Zhang, Y. Zhang. X. Li, **M. Liu**,  *et al.* “Wireless device authentication platform based on radio frequency fingerprint,” *Registration of Computer Software Copyright*, Feb. 25, 2019. 
+9. **M. Liu**, H. Luo, T.Z. Zhang, *et al.* “A radio frequency fingerprint extraction method for wireless devices based on multi-path compensation,” *Chinese Invention Patent, No. 202310715769.0*, Jun. 15, 2023.
 
 <U>Under review</U>:
 1. **M. Liu**, X. Wang, X. Han, *et al.* “A radio frequency fingerprint extraction method based on multiple feature fusion with attention mechanism,” *Chinese Invention Patent application, No. 202111148113.2*, 2021. 
-2. **M. Liu**, H. Luo, T.Z. Zhang, *et al.* “A radio frequency fingerprint extraction method for wireless devices based on multi-path compensation,” *Chinese Invention Patent application, No. 202310715769.0*, 2023. 
-3. Y.T. Xu, G.P Wang, **M. Liu**, T. Xu, *et al.* “Method, apparatus, and device of carrier frequency estimation and backscatter communications,” *Chinese Invention Patent application, No.  202310334994.X*, 2023. 
-4. R.T. Xu, J.L. Lin, G.P. Wang, **M. Liu**, et al. “A backscatter communication method between different communication devices,” *Chinese Invention Patent*, 202311182119.0, 2023. 
-5. Z.Q. Cui, G.P. Wang, R.T. Xu, **M. Liu**, et al. “Method, apparatus and medium for adaptive iterative decision,” *Chinese Invention Patent*, 202311862871.X, 2023. 
-6. Z.Q. Cui, G.P. Wang, **M. Liu**, et al. “Method, apparatus and medium for baseband signal interference mitigation,” *Chinese Invention Patent*, 202311862421.0, 2023. 
+2. Y.T. Xu, G.P Wang, **M. Liu**, T. Xu, *et al.* “Method, apparatus, and device of carrier frequency estimation and backscatter communications,” *Chinese Invention Patent application, No.  202310334994.X*, 2023. 
+3. R.T. Xu, J.L. Lin, G.P. Wang, **M. Liu**, et al. “A backscatter communication method between different communication devices,” *Chinese Invention Patent*, 202311182119.0, 2023. 
+4. Z.Q. Cui, G.P. Wang, R.T. Xu, **M. Liu**, et al. “Method, apparatus and medium for adaptive iterative decision,” *Chinese Invention Patent*, 202311862871.X, 2023. 
+5. Z.Q. Cui, G.P. Wang, **M. Liu**, et al. “Method, apparatus and medium for baseband signal interference mitigation,” *Chinese Invention Patent*, 202311862421.0, 2023. 
 
 
 <a href="#" class="btn btn-success">Back to Top</a>
