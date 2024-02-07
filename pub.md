@@ -5,7 +5,7 @@ is_contact: true
 
 ## Publications
 ### Journal papers:
-1. H. Fu, Y.F. Sun, L. Peng, and  **M. Liu**, “Channel-Resilient RF Fingerprint Identification Based on Nonlinear Features with Memory Effect,”  *IEEE Communications Letters*, *to appear*, 2024. 
+1. H. Fu, Y.F. Sun, L. Peng and  **M. Liu**, “Channel-Resilient RF Fingerprint Identification Based on Nonlinear Features with Memory Effect,”  *IEEE Communications Letters*, *to appear*, 2024. 
 2. L. Peng, H. Peng, H. Fu and  **M. Liu**, “Channel-Robust Radio Frequency Fingerprint Identification for Cellular Uplink LTE Devices,”  *IEEE Internet of Things Journal*, 2024. [<a href="https://ieeexplore.ieee.org/abstract/document/10415087" target="_blank">manuscript</a>]
 3. H. Fu, L. Peng, **M. Liu**, and A. Hu, “Deep Learning Based RF Fingerprint Identification with Channel Effects Mitigation,”  *IEEE Open Journal of the Communications Society*, vol. 4, pp. 1668-1681, 2023. [<a href="https://ieeexplore.ieee.org/document/10184130" target="_blank">manuscript</a>]
 4. **M. Liu, J**. Zhang, K. Xiong, M. Zhang, P. Fan, and K. B. Letaief, “Effective User Clustering and Power Control for Multi-Antenna Uplink NOMA Transmission,”  *IEEE Transactions on Wireless Communications*, vol. 21, no. 11, pp. 8995-9009, 2022. [<a href="https://ieeexplore.ieee.org/document/9772422" target="_blank">manuscript</a>]
@@ -30,7 +30,7 @@ is_contact: true
 3. Q.Y. Li, Z.D. Zhong, **M. Liu** and W.W. Fang, "Smart Railway Based on Internet of Things." *Big Data Analytics for Sensor-Network Collected Intelligence*, H.-H. Hus, *et. al.* (eds), Elsevier, 2017. [[link](https://www.elsevier.com/books/big-data-analytics-for-sensor-network-collected-intelligence/hsu/978-0-12-809393-1)]
 
 ### Conference papers:
-1. M. Wang, L. Peng, L. Xie, J. Zhang, **M. Liu** and Hua Fu, “Design of Noise Robust Open-Set Radio Frequency Fingerprint Identification Method”  in *Proc. IEEE INFOCOM Workshop: Deep Learning for Wireless Communications, Sensing, and Security (DeepWireless)*, Vancouver, Canada, 2024.
+1. M. Wang, L. Peng, L. Xie, J. Zhang, **M. Liu** and H. Fu, “Design of Noise Robust Open-Set Radio Frequency Fingerprint Identification Method”  in *Proc. IEEE INFOCOM Workshop: Deep Learning for Wireless Communications, Sensing, and Security (DeepWireless)*, Vancouver, Canada, 2024.
 2. X. Tian, B. Gao, **M. Liu**, K. Xiong, P. Fan and K. B. Letaief, “IRL-PM: An Inverse Reinforcement Learning-based Power Minimization in Multi-User MISO Networks,”  in *Proc. 8th International Conference on Computer and Communication Systems (ICCCS)*, Guangzhou, China, 2023. [<font style="color: #ff0000"><strong>Best presentation award</strong></font>]
 3. H. Li, **M. Liu**, B. Gao, K. Xiong, P. Fan and K. B. Letaief, “Sum Computation Rate Maximization in Self-Sustainable RIS-Assisted MEC”  in *Proc. IEEE International Conference on Computer Communications (INFOCOM)*, Poster, Hoboken, NJ, 2023. 
 4. K. Yao, H. Li, **M. Liu**, B. Gao, K. Xiong and P. Fan, “ARES-WiGR: An Attention-enhanced ResNet based Wi-Fi Gesture Recognition,”  in *Proc. IEEE International Conference on Computer Communications (INFOCOM)*, Poster, Hoboken, NJ, 2023. 
