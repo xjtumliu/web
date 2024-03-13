@@ -5,7 +5,7 @@ is_contact: true
 
 ## Publications
 ### Journal papers:
-1. L. Peng, Z. Wu, J. Zhang, **M. Liu**, H. Fu and A. Hu,  “Channel-Resilient RF Fingerprint Identification Based on Nonlinear Features with Memory Effect,” *IEEE Transactions on Vehicular Technology*, 2024, to appear.
+1. L. Peng, Z. Wu, J. Zhang, **M. Liu**, H. Fu and A. Hu,  “Hybrid RFF Identification for LTE Using Wavelet Coefficient Graph and Differential Spectrum,” *IEEE Transactions on Vehicular Technology*, 2024, to appear.
 2. H. Fu, Y.F. Sun, L. Peng and  **M. Liu**, “Channel-Resilient RF Fingerprint Identification Based on Nonlinear Features with Memory Effect,”  *IEEE Communications Letters*, 2024. [<a href="https://ieeexplore.ieee.org/document/10430094" target="_blank">manuscript</a>]
 3. L. Peng, H. Peng, H. Fu and  **M. Liu**, “Channel-Robust Radio Frequency Fingerprint Identification for Cellular Uplink LTE Devices,”  *IEEE Internet of Things Journal*, 2024. [<a href="https://ieeexplore.ieee.org/abstract/document/10415087" target="_blank">manuscript</a>]
 4. H. Fu, L. Peng, **M. Liu**, and A. Hu, “Deep Learning Based RF Fingerprint Identification with Channel Effects Mitigation,”  *IEEE Open Journal of the Communications Society*, vol. 4, pp. 1668-1681, 2023. [<a href="https://ieeexplore.ieee.org/document/10184130" target="_blank">manuscript</a>]
