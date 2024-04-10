@@ -85,6 +85,8 @@ is_contact: true
 3. R.T. Xu, J.L. Lin, G.P. Wang, **M. Liu**, et al. “A backscatter communication method between different communication devices,” *Chinese Invention Patent*, 202311182119.0, 2023. 
 4. Z.Q. Cui, G.P. Wang, R.T. Xu, **M. Liu**, et al. “Method, apparatus and medium for adaptive iterative decision,” *Chinese Invention Patent*, 202311862871.X, 2023. 
 5. Z.Q. Cui, G.P. Wang, **M. Liu**, et al. “Method, apparatus and medium for baseband signal interference mitigation,” *Chinese Invention Patent*, 202311862421.0, 2023. 
-6. J.L. Lin, **M. Liu**, D. Fan, et al.  “A communication system and method for wireless devices based on backscatter,” *Chinese Invention Patent*, 202410087520.4, 2024. 
+6. J.L. Lin, **M. Liu**, D. Fan, et al. “A communication system and method for wireless devices based on backscatter,” *Chinese Invention Patent*, 202410087520.4, 2024. 
+7. Y.F. Long, G.P. Wang, **M. Liu**, R.T. Xu, W. Gong, “An anti-collision system and method for backscatter communication system,” *Chinese Invention Patent*, 202410197010.2, 2024. 
+8. J.L. Lin, G.P. Wang, R.T. Xu, **M. Liu**,  J.W. Qi, X.N. Zhang, “Backscatter communication system and method,” *Chinese Invention Patent*, 202410286528.3, 2024. 
 
 <a href="#" class="btn btn-success">Back to Top</a>
