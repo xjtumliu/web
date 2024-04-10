@@ -5,7 +5,7 @@ is_contact: true
 
 ## Publications
 ### Journal papers:
-1. P. Yin, L. Peng, G. Shen, J. Zhang, **M. Liu**, H. Fu, A. Hu and X. Wang,  “Hybrid RFF Identification for LTE Using Wavelet Coefficient Graph and Differential Spectrum,” *IEEE Transactions on Vehicular Technology*, 2024, to appear.
+1. P. Yin, L. Peng, G. Shen, J. Zhang, **M. Liu**, H. Fu, A. Hu and X. Wang,  “Multi-Channel CNN-Based Open-Set RF Fingerprint Identification for LTE Devices,” *IEEE Transactions on Cognitive Communications and Networking*, 2024, to appear.
 2. L. Peng, Z. Wu, J. Zhang, **M. Liu**, H. Fu and A. Hu,  “Hybrid RFF Identification for LTE Using Wavelet Coefficient Graph and Differential Spectrum,” *IEEE Transactions on Vehicular Technology*, 2024. [<a href="https://ieeexplore.ieee.org/document/10487783" target="_blank">manuscript</a>]
 3. H. Fu, Y.F. Sun, L. Peng and  **M. Liu**, “Channel-Resilient RF Fingerprint Identification Based on Nonlinear Features with Memory Effect,”  *IEEE Communications Letters*, 2024. [<a href="https://ieeexplore.ieee.org/document/10430094" target="_blank">manuscript</a>]
 4. L. Peng, H. Peng, H. Fu and  **M. Liu**, “Channel-Robust Radio Frequency Fingerprint Identification for Cellular Uplink LTE Devices,”  *IEEE Internet of Things Journal*, 2024. [<a href="https://ieeexplore.ieee.org/abstract/document/10415087" target="_blank">manuscript</a>]
