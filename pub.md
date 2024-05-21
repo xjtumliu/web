@@ -5,7 +5,7 @@ is_contact: true
 
 ## Publications
 ### Journal papers:
-1. Z. Cui, G. Wang, **M. Liu**, B. Ai and T.Q.S. Quek,  “Wavy Signals and Striped Constellations for Backscatter Communications: Origins and Solutions,” *IEEE Transactions on Wireless Communications*, 2024, to appear.
+1. Z. Cui, G. Wang, **M. Liu**, B. Ai and T.Q.S. Quek,  “Wavy Signals and Striped Constellations for Backscatter Communications: Origins and Solutions,” *IEEE Transactions on Wireless Communications*, 2024. [<a href="https://ieeexplore.ieee.org/document/10528254" target="_blank">manuscript</a>]
 2. P. Yin, L. Peng, G. Shen, J. Zhang, **M. Liu**, H. Fu, A. Hu and X. Wang,  “Multi-Channel CNN-Based Open-Set RF Fingerprint Identification for LTE Devices,” *IEEE Transactions on Cognitive Communications and Networking*, 2024. [<a href="https://ieeexplore.ieee.org/document/10505882" target="_blank">manuscript</a>]
 3. L. Peng, Z. Wu, J. Zhang, **M. Liu**, H. Fu and A. Hu,  “Hybrid RFF Identification for LTE Using Wavelet Coefficient Graph and Differential Spectrum,” *IEEE Transactions on Vehicular Technology*, 2024. [<a href="https://ieeexplore.ieee.org/document/10487783" target="_blank">manuscript</a>]
 4. H. Fu, Y.F. Sun, L. Peng and  **M. Liu**, “Channel-Resilient RF Fingerprint Identification Based on Nonlinear Features with Memory Effect,”  *IEEE Communications Letters*, 2024. [<a href="https://ieeexplore.ieee.org/document/10430094" target="_blank">manuscript</a>]
