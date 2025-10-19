@@ -83,6 +83,7 @@ I'm now interested in the application of the recent advances of AI to the fundam
 
 ---
 ## Award
+- 2025  **Top 10 Technology Advances in IoT** for “*Research on Basic Theories and Prototype Verification Platform Implementation of New Backscatter Communication and Passive IoT*”, issued by China IoT Conference, 2025
 - 2022  **Beijing Municipal Higher Education Achievement Award**, **Second Prize** (4/15)
 - 2021  **Special Award for Undergraduate Teaching Achievement of Beijing Jiaotong University**, (4/15)
 - 2021  **Undergraduate Education Achievement Award of Beijing Jiaotong University**, **Second Prize** x2, (1/6), (2/5)
