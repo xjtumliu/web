@@ -73,7 +73,7 @@ I'm now interested in the application of the recent advances of AI to the fundam
 * **“Assembly Language & Computer Interface”**   
 	64 hours undergraduate course in BJTU, since 2017 fall
 
-* **“Algorithms”**                
+* **“Algorithm Analysis and Design”**                
 	24 hours postgraduate course in BJTU, since 2019 fall
 
 * **“Electronics”**  
