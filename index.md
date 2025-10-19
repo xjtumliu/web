@@ -25,11 +25,11 @@ I'm now interested in the application of the recent advances of AI to the fundam
 ## Skill
 
 * **Telecom**:		
-			Passive	backscatter communication, RF interference cancellation, physical layer security, massive-MIMO, OFDM, space-time coding, channel estimation, random access, optical fiber communications  
+			Passive	backscatter communication, RF interference cancellation, radio frequency fingerprint, massive-MIMO, OFDM, space-time coding, channel estimation, random access, optical fiber communications  
 * **Systems**:
 			GSM, LTE, RFID, DVB-T/T2/NGH, DTMB 
 * **AI**: 
-			Hands-on experience on typical machine learning models, e.g. CNN, auto-encoder, GAN, transformer	
+			Hands-on experience on typical machine learning models, e.g. CNN, auto-encoder, GAN, Transformer	
 * **Tools**:	
 			MATLAB, Python, C/C++, JAVA
 * **Language**:	
