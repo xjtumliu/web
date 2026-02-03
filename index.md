@@ -65,8 +65,8 @@ I'm now interested in the application of the recent advances of AI to the fundam
 	- Tianzhuang Zhang (M.S., 2019-2022), *now at ByteDance*
 	- Xin Wang (M.S., 2020-2023)
 
-    <U>Ph.D.</U>:
-	- Rida El Chall (2012-2015, in assistance to Prof. Maryline Hélard and Prof. Fabienne Nouvel, INSA-Rennes, *now as Assistant Professor with Lebanese University*) 
+    <!-- <U>Ph.D.</U>:
+	- Rida El Chall (2012-2015, in assistance to Prof. Maryline Hélard and Prof. Fabienne Nouvel, INSA-Rennes, *now as Assistant Professor with Lebanese University*)  -->
 
 ---
 ## Teaching
