@@ -25,8 +25,20 @@ is_contact: true
 	
 	- RF self-interference cancellation (SIC) for mono-static backscatter communications
 
-		The information transmission between a backscatter device (i.e. a "tag" in classic RFID system) and a backscatter interrogator (a.k.a. a "reader") is carried out by changing the reflection status of the incident RF carrier wave in the mono-static backscatter communications. The carrier wave leaking from the Tx to Rx of the reader due to the imperfect isolation of the circulator introduces significant interference in the received RF backscatter signal, causing severe RF self-interference. This RF self-interference constitutes the most prominent performance bottleneck of the mono-static backscatter communication. This project aims to design hardware and algorithms to realize RF self-interference cancellation of the backscatter system. Experimental results show that the implemented RF SIC platform can achieve over 45 dB interference cancellation performance. 	
+		The information transmission between a backscatter device (i.e. a "tag" in classic RFID system) and a backscatter interrogator (a.k.a. a "reader") is carried out by changing the reflection status of the incident RF carrier wave in the mono-static backscatter communications. The carrier wave leaking from the Tx to Rx of the reader due to the imperfect isolation of the circulator introduces significant interference in the received RF backscatter signal, causing severe RF self-interference. This RF self-interference constitutes the most prominent performance bottleneck of the mono-static backscatter communication. This project aims to design hardware and algorithms to realize RF self-interference cancellation of the backscatter system. We develop a dual phase-detector guided self-interference cancellation hardware that quickly locates the cancellation point, together with an alternating gradient descent and block-wise greedy search algorithm that jointly optimize the attenuation and phase-shift parameters for fast and accurate cancellation point search. Experimental results show that the implemented RF SIC platform can achieve over 45 dB interference cancellation performance.
+	<figure>
+	   	<center><img class='center' src='striped_const_DSIC.png' alt='Dynamic self-interference cancellation for triped-shape constellation.' style="width:350px;" /></center>
+	   	<center><figcaption><font style="color: rgb(60,135,200)"><U>Dynamic self-interference cancellation for triped-shape constellation</U></font>.</figcaption></center>
+	</figure>		
 
+		For more information, please refer to:
+
+		>Z. Cui, G. Wang, M. Liu, B. Ai and T.Q.S. Quek, “Wavy Signals and Striped Constellations for Backscatter Communications: Origins and Solutions,” *IEEE Transactions on Wireless Communications*, vol. 23, no. 10, pp. 12815–12829, 2024. [<a href="https://ieeexplore.ieee.org/document/10528254" target="_blank">manuscript</a>]
+ 	
+	- Adaptive demodulation for wavy striped-shape constellation in mono-static backscatter communications
+
+		The mono-static backscatter platform employs a software-defined radio (SDR) whose PLL phase noise, varying with frequency synthesis mode, causes the received signal mean to drift over time and the constellation to degrade from ideal point-like clusters into a wavy, striped-shape distribution, severely limiting demodulation performance. Traditional demodulation fails because the varying mean and band rotation make fixed-threshold decisions unreliable. This work aims to design an algorithm to achieve reliable demodulation of the striped-shape constellation. We first track and eliminate the time-varying signal mean through envelope detection, then formulate the residual decisions as an SVM classification that actively finds an optimal rotated decision plane using pilot/training symbols, jointly countering both band drift and constellation rotation. Experimental results show the method enables reliable binary detection and, combined with the SIC module, supports robust backscatter communication over a wider range and higher data rates.
+  
 ---
 ###  Wireless Internet of Things (IoT) Device Identification Based on Radio Frequency Fingerprint
 *National Science Foundation of China (NSFC)*, **PI**，*01/2020 – 12/2023*
