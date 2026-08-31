@@ -30,7 +30,6 @@ is_contact: true
 	- Adaptive demodulation for wavy striped-shape constellation in mono-static backscatter communications
 
 		The mono-static backscatter platform employs a software-defined radio (SDR) whose PLL phase noise, varying with frequency synthesis mode, causes the received signal mean to drift over time and the constellation to degrade from ideal point-like clusters into a wavy, striped-shape distribution, severely limiting demodulation performance. Traditional demodulation fails because the varying mean and band rotation make fixed-threshold decisions unreliable. This work aims to design an algorithm to achieve reliable demodulation of the striped-shape constellation. We first track and eliminate the time-varying signal mean through envelope detection, then formulate the residual decisions as an SVM classification that actively finds an optimal rotated decision plane using pilot/training symbols, jointly countering both band drift and constellation rotation. Experimental results show the method enables reliable binary detection and, combined with the SIC module, supports robust backscatter communication over a wider range and higher data rates.
-
 <figure style="text-align:center;">
     <img class='center' 
          src='striped_const_DSIC.png' 
@@ -40,9 +39,9 @@ is_contact: true
         Dynamic self‑interference cancellation for triped‑shape constellation.
     </figcaption>
 </figure>
-	For more information, please refer to:
-		
-	> Z. Cui, G. Wang, M. Liu, B. Ai and T.Q.S. Quek, “Wavy Signals and Striped Constellations for Backscatter Communications: Origins and Solutions,” *IEEE Transactions on Wireless Communications*, vol. 23, no. 10, pp. 12815–12829, 2024. [<a href="https://ieeexplore.ieee.org/document/10528254" target="_blank">manuscript</a>]
+
+For more information, please refer to:
+>Z. Cui, G. Wang, M. Liu, B. Ai and T.Q.S. Quek, “Wavy Signals and Striped Constellations for Backscatter Communications: Origins and Solutions,” *IEEE Transactions on Wireless Communications*, vol. 23, no. 10, pp. 12815–12829, 2024. [<a href="https://ieeexplore.ieee.org/document/10528254" target="_blank">manuscript</a>]
   
 ---
 ###  Wireless Internet of Things (IoT) Device Identification Based on Radio Frequency Fingerprint
