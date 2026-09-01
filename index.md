@@ -57,7 +57,7 @@ I'm now interested in the application of the recent advances of AI to the fundam
 	- Yuxuan Xu (M.S., 2021-2024), *now at Kuaishou*
 	- Xin Wang (M.S., 2020-2023), *now at Huawei*
 	- Jiali Xia (M.E., 2022-2024), *now at Huawei*
-	- Nian Wang (M.E., 2022-2025), *now at SERES Auto*
+	- Nian Wang (M.S., 2022-2025), *now at SERES Auto*
 	- Bingjie Jiang (M.E., 2023-2026), *now at LEAPMOTOR*
 
 ---
@@ -75,7 +75,8 @@ I'm now interested in the application of the recent advances of AI to the fundam
 
 ---
 ## Award
-- 2025  **Top 10 Technology Advances in IoT** for “*Research on basic theories and prototype verification platform of new backscatter communication and passive IoT*”, issued by China IoT Conference, 2025
+- 2025  **Top 10 Technology Advances in IoT** for “*Research on basic theories and prototype verification platform of new backscatter communication and passive IoT*”, issued by China IoT Conference, (4/13)
+- 2024  **Undergraduate Education Achievement Award of Beijing Jiaotong University**, **First Prize**, (5/9)
 - 2022  **Beijing Municipal Higher Education Achievement Award**, **Second Prize** (4/15)
 - 2021  **Special Award for Undergraduate Teaching Achievement of Beijing Jiaotong University**, (4/15)
 - 2021  **Undergraduate Education Achievement Award of Beijing Jiaotong University**, **Second Prize** x2, (1/6), (2/5)
