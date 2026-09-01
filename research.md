@@ -90,7 +90,7 @@ Various IoT applications are penetrating many aspects of our daily life. IoT is 
 	- Massive uplink connections in massive MIMO system
 
 		The random access of massive concurrent Internet-of-Thing devices becomes a major challenge for the future mobile communication network. We seek the possibility of exploiting the great spatial degrees of freedom brought by the massive MIMO technique. The small-scale fading channels of concurrent users sharing the same band are converted to a scalar form after the simple Maximal Ratio Combining (MRC). The overlapped users’ symbols are then recovered using the iterative interference canceller as long as the received powers of different users exhibit significant differences. The random access of multiple concurrent users is turned into a power allocation problem. It is proved that the proposed random access scheme can support around a 300% system overload ratio. 
-	- Power Optimization in Massive MIMO Systems
+	- Power Optimization in UL Massive MIMO Systems
 
 		To address the interference and energy consumption challenges in large-scale Massive MIMO systems, we developed a low-complexity power optimization framework. Users are grouped into clusters sharing a Massive MIMO beam, with intra-cluster interference resolved through successive interference cancellation and inter-cluster interference suppressed via spatial multiplexing.
 		Since the ideal joint user grouping and power allocation is combinatorial and impractical, we decompose it into two tractable steps: user clustering (using K-means with SUS-based initialization, balancing channel correlation and gain difference) followed by power allocation (via MRC-based alternating cluster/user optimization that provably converges).
