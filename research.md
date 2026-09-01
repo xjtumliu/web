@@ -90,7 +90,16 @@ Various IoT applications are penetrating many aspects of our daily life. IoT is 
 	- Massive uplink connections in massive MIMO system
 
 		The random access of massive concurrent Internet-of-Thing devices becomes a major challenge for the future mobile communication network. We seek the possibility of exploiting the great spatial degrees of freedom brought by the massive MIMO technique. The small-scale fading channels of concurrent users sharing the same band are converted to a scalar form after the simple Maximal Ratio Combining (MRC). The overlapped users’ symbols are then recovered using the iterative interference canceller as long as the received powers of different users exhibit significant differences. The random access of multiple concurrent users is turned into a power allocation problem. It is proved that the proposed random access scheme can support around a 300% system overload ratio. 
+	- Power Optimization in Massive MIMO Systems
 
+		To address the interference and energy consumption challenges in large-scale Massive MIMO systems, we developed a low-complexity power optimization framework. Users are grouped into clusters sharing a Massive MIMO beam, with intra-cluster interference resolved through successive interference cancellation and inter-cluster interference suppressed via spatial multiplexing.
+		Since the ideal joint user grouping and power allocation is combinatorial and impractical, we decompose it into two tractable steps: user clustering (using K-means with SUS-based initialization, balancing channel correlation and gain difference) followed by power allocation (via MRC-based alternating cluster/user optimization that provably converges).
+		The result is an O(K²) algorithm that realizes the benefits of joint optimization at far lower cost — reducing total system transmit power by 14–34% and improving energy efficiency by over 90% compared to baseline methods.
+
+For more information, please refer to:
+>M. Liu, J. Zhang, K. Xiong, M. Zhang, P. Fan, and K. B. Letaief, “Effective User Clustering and Power Control for Multi-Antenna Uplink NOMA Transmission,” *IEEE Transactions on Wireless Communications*, vol. 21, no. 11, pp. 8995-9009, 2022. [<a href="https://ieeexplore.ieee.org/document/9772422" target="_blank">manuscript</a>]
+
+>Q. Wang, M. Liu, N. Liu and Z.D. Zhong, “On Augmenting UL Connections in Massive MIMO System using Composite Channel Estimation,” in *Proc. IEEE Global Communications Conference (GLOBECOM)*, 2018. [<a href="https://ieeexplore.ieee.org/document/8648132" target="_blank">manuscript</a>]
 ---
 ### 5G End-to-End Performance Optimization for Hybrid Service Scenarios
 *Nokia Bell Labs project*, **technical leader**, *04/2017 – 03/2018*
