@@ -25,7 +25,7 @@ I'm now interested in the application of the recent advances of AI to the fundam
 ## Skill
 
 * **Telecom**:		
-			Passive	backscatter communication, RF interference cancellation, radio frequency fingerprint, massive-MIMO, OFDM, space-time coding, channel estimation, random access, optical fiber communications  
+			Backscatter communication, RF interference cancellation, radio frequency fingerprint, massive-MIMO, OFDM, space-time coding, channel estimation, random access, optical fiber communications  
 * **Systems**:
 			GSM, LTE, RFID, DVB-T/T2/NGH, DTMB 
 * **AI**: 
@@ -37,20 +37,11 @@ I'm now interested in the application of the recent advances of AI to the fundam
 
 ---
 ## Advising
-* **Current students**: 
-	- Yuxuan Xu (2021-)
-	- Hui Luo (2022-)
-	- Jiali Xia (2022-)
-	- Nian Wang (2022-)
-	- Shuo Feng (2022-)
-	- Bingjie Jiang (2023-)
-	- Xin Fang (2023-)
-	- Yan Wang (2023-)
+- Yan Wang (Ph.D., 2023-)
 
 * **Alumni**:     
-	<U>Master</U>:
 	- Xiaoyi Wang (M.E., 2015-2017), *now at China Railway Fifth Survey and Design Institute Group*, **Outstanding Master Thesis**
-	- Qing Wang (M.S., 2015-2018, co-advised with Prof. Z.D. Zhong), *now at Huawei Technologies* 
+	- Qing Wang (M.S., 2015-2018, co-advised with Prof. Z.D. Zhong), *now at Huawei* 
 	- Li Xu (M.S., 2016-2019), *now at the People's Bank of China* 
 	- Nian Liu (M.S., 2017-2020), *now at China Merchants Bank* 
 	- Yawen Zheng (M.S., 2017-2020), *now at Huaxia Bank* 
@@ -61,12 +52,13 @@ I'm now interested in the application of the recent advances of AI to the fundam
 	- Jiaxin Ren (M.S., 2018-2021), *now at Ali Baba Network Technology Co., Ltd*
 	- Huidong Lyu (M.E., 2018-2021), *now at JD.com, Inc.*
 	- Han Chen (M.E., 2018-2021), *now at China International Capital Corporation (CICC)*
-	- Cihang Cheng (M.S., 2019-2022), *now at China Telecom System Integration Co., Ltd.*, **Municipal Outstanding Graduated Student**
+	- Cihang Cheng (M.S., 2019-2022), *now at China Telecom System Integration Co., Ltd.*, **Beijing Outstanding Graduated Student**
 	- Tianzhuang Zhang (M.S., 2019-2022), *now at ByteDance*
-	- Xin Wang (M.S., 2020-2023)
-
-    <!-- <U>Ph.D.</U>:
-	- Rida El Chall (2012-2015, in assistance to Prof. Maryline Hélard and Prof. Fabienne Nouvel, INSA-Rennes, *now as Assistant Professor with Lebanese University*)  -->
+	- Yuxuan Xu (M.S., 2021-2024), *now at Kuaishou*
+	- Xin Wang (M.S., 2020-2023), *now at Huawei*
+	- Jiali Xia (M.E., 2022-2024), *now at Huawei*
+	- Nian Wang (M.E., 2022-2025), *now at SERES Auto*
+	- Bingjie Jiang (M.E., 2023-2026), *now at LEAPMOTOR*
 
 ---
 ## Teaching
@@ -83,7 +75,7 @@ I'm now interested in the application of the recent advances of AI to the fundam
 
 ---
 ## Award
-- 2025  **Top 10 Technology Advances in IoT** for “*Research on Basic Theories and Prototype Verification Platform Implementation of New Backscatter Communication and Passive IoT*”, issued by China IoT Conference, 2025
+- 2025  **Top 10 Technology Advances in IoT** for “*Research on basic theories and prototype verification platform of new backscatter communication and passive IoT*”, issued by China IoT Conference, 2025
 - 2022  **Beijing Municipal Higher Education Achievement Award**, **Second Prize** (4/15)
 - 2021  **Special Award for Undergraduate Teaching Achievement of Beijing Jiaotong University**, (4/15)
 - 2021  **Undergraduate Education Achievement Award of Beijing Jiaotong University**, **Second Prize** x2, (1/6), (2/5)
