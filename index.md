@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="ml.jpg">
 
-I'm an Associate Professor and a Ph.D. supervisor affiliated with the School of Computer & Information Technology of Beijing Jiaotong University. 
+I'm an Associate Professor and a Ph.D. supervisor with the School of Computer & Information Technology of Beijing Jiaotong University. 
 In my research works I was working in the areas of communication theories and techniques, including **ambient IoT**, **physical layer identification**, **massive MIMO**, space-time coding, Turbo receiver and optical fiber communications. 
 I'm now interested in the application of the recent advances of AI to the fundamental problems in communication systems.
 
