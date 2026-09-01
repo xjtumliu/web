@@ -100,6 +100,7 @@ For more information, please refer to:
 >M. Liu, J. Zhang, K. Xiong, M. Zhang, P. Fan, and K. B. Letaief, “Effective User Clustering and Power Control for Multi-Antenna Uplink NOMA Transmission,” *IEEE Transactions on Wireless Communications*, vol. 21, no. 11, pp. 8995-9009, 2022. [<a href="https://ieeexplore.ieee.org/document/9772422" target="_blank">manuscript</a>]
 
 >Q. Wang, M. Liu, N. Liu and Z.D. Zhong, “On Augmenting UL Connections in Massive MIMO System using Composite Channel Estimation,” in *Proc. IEEE Global Communications Conference (GLOBECOM)*, 2018. [<a href="https://ieeexplore.ieee.org/document/8648132" target="_blank">manuscript</a>]
+
 ---
 ### 5G End-to-End Performance Optimization for Hybrid Service Scenarios
 *Nokia Bell Labs project*, **technical leader**, *04/2017 – 03/2018*
