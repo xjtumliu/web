@@ -93,7 +93,7 @@ Various IoT applications are penetrating many aspects of our daily life. IoT is 
 	- Power optimization in UL massive MIMO systems
 
 		To address the interference and energy consumption challenges in large-scale Massive MIMO systems, we developed a low-complexity power optimization framework. Users are grouped into clusters sharing a Massive MIMO beam, with intra-cluster interference resolved through successive interference cancellation and inter-cluster interference suppressed via spatial multiplexing.
-		Since the ideal joint user grouping and power allocation is combinatorial and impractical, we decompose it into two tractable steps: user clustering (using K-means with SUS-based initialization, balancing channel correlation and gain difference) followed by power allocation (via MRC-based alternating cluster/user optimization that provably converges).
+		Since the ideal joint user grouping and power allocation is combinatorial and impractical, we decompose it into two tractable steps: user clustering (using K-means with SUS-based initialization, balancing channel correlation and gain difference) followed by power allocation (via alternating cluster/user optimization that provably converges).
 		The result is an O(K²) algorithm that realizes the benefits of joint optimization at far lower cost — reducing total system transmit power by 14–34% and improving energy efficiency by over 90% compared to baseline methods.
 
 For more information, please refer to:
