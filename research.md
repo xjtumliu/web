@@ -26,7 +26,7 @@ is_contact: true
 	- RF self-interference cancellation (SIC) for mono-static backscatter communications
 
 		The information transmission between a backscatter device (i.e. a "tag" in classic RFID system) and a backscatter interrogator (a.k.a. a "reader") is carried out by changing the reflection status of the incident RF carrier wave in the mono-static backscatter communications. The carrier wave leaking from the Tx to Rx of the reader due to the imperfect isolation of the circulator introduces significant interference in the received RF backscatter signal, causing severe RF self-interference. This RF self-interference constitutes the most prominent performance bottleneck of the mono-static backscatter communication. This project aims to design hardware and algorithms to realize RF self-interference cancellation of the backscatter system. We develop a dual phase-detector guided self-interference cancellation hardware that quickly locates the cancellation point, together with an alternating gradient descent and block-wise greedy search algorithm that jointly optimize the attenuation and phase-shift parameters for fast and accurate cancellation point search. Experimental results show that the implemented RF SIC platform can achieve over 45 dB interference cancellation performance.
- 	<figure style="text-align:center;">
+<figure style="text-align:center;">
     <img class='center' 
          src='SIC.png' 
          alt='Spectrum of a 512 kbps backscatter signal after self RF interference cancellation.' 
