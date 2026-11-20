@@ -33,12 +33,13 @@ is_contact: true
 <figure style="text-align:center;">
     <img class='center' 
          src='GMSK_backscatter.png' 
-         alt='Spectrum of the low harmonic MSK/GMSK backscatter.' 
+         alt='Dynamic self‑interference cancellation for triped‑shape constellation.' 
          style="width:90%; max-width:100%; height:auto;" />
     <figcaption style="color:rgb(60,135,200); text-decoration:underline;">
-        Spectrum of the low harmonic MSK/GMSK backscatter.
+        Dynamic self‑interference cancellation for triped‑shape constellation.
     </figcaption>
 </figure>
+
 
 	- Adaptive demodulation for wavy striped-shape constellation in mono-static backscatter communications
 
