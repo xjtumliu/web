@@ -40,6 +40,8 @@ is_contact: true
     </figcaption>
 </figure>
 
+For more information, please refer to:
+>Y. Yang, M. Liu, G. Wang, R. Xu, W. Gong and B. Ai, “Low Harmonic MSK/GMSK Backscatter Based on Active Transistor Load,” *IEEE Transactions on Mobile Computing*, vol. 25, no. 9, pp. 14531-14547, 2026. [<a href="https://ieeexplore.ieee.org/document/11478806" target="_blank">manuscript</a>]
 
 	- Adaptive demodulation for wavy striped-shape constellation in mono-static backscatter communications
 
