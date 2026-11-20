@@ -30,18 +30,10 @@ is_contact: true
 	- Low-harmonic MSK/GMSK backscatter based on active transistor loads 
 
 		As IoT deployment density increases, spectrum-efficient backscatter communication becomes essential for accommodating more devices within limited frequency resources. Traditional backscatter devices modulate the incident RF carrier by switching between discrete antenna loads. These abrupt impedance changes generate higher-order harmonics, increasing bandwidth occupancy and interference to other users. This work aims to design and implement backscatter devices that support low-harmonic, spectrum-efficient modulation. We employ an active transistor as the antenna termination to provide continuously controllable load impedance, enabling smooth adjustment of the reflected signal’s amplitude and phase through appropriate control voltages. Building on this hardware design, we develop Minimum Shift Keying (MSK) and Gaussian Minimum Shift Keying (GMSK) backscatter modulation, with a low-complexity look-up table (LUT) implementation for generating the required transistor control waveforms. Experimental results demonstrate third-harmonic suppression of 29.5 dB and 30.1 dB for MSK and GMSK, respectively, compared with approximately 9.5 dB for conventional square-wave backscatter. These results demonstrate the potential of continuous impedance control and waveform design to reduce interference and enable more spectrum-efficient backscatter systems.
-<figure style="text-align:center;">
-    <img class='center' 
-         src='GMSK_backscatter.png' 
-         alt='Dynamic self‑interference cancellation for triped‑shape constellation.' 
-         style="width:90%; max-width:100%; height:auto;" />
-    <figcaption style="color:rgb(60,135,200); text-decoration:underline;">
-        Dynamic self‑interference cancellation for triped‑shape constellation.
-    </figcaption>
-</figure>
-
-For more information, please refer to:
->Y. Yang, M. Liu, G. Wang, R. Xu, W. Gong and B. Ai, “Low Harmonic MSK/GMSK Backscatter Based on Active Transistor Load,” *IEEE Transactions on Mobile Computing*, vol. 25, no. 9, pp. 14531-14547, 2026. [<a href="https://ieeexplore.ieee.org/document/11478806" target="_blank">manuscript</a>]
+	<figure>
+	   	<center><img class='center' src='GMSK_backscatter.png' alt='Spectrum of the low harmonic MSK/GMSK backscatter.' style="width:350px;" /></center>
+	   	<center><figcaption><font style="color: rgb(60,135,200)"><U>Spectrum of the low harmonic MSK/GMSK backscatter</U></font>.</figcaption></center>
+	</figure>
 
 	- Adaptive demodulation for wavy striped-shape constellation in mono-static backscatter communications
 
@@ -57,6 +49,7 @@ For more information, please refer to:
 </figure>
 
 For more information, please refer to:
+>Y. Yang, M. Liu, G. Wang, R. Xu, W. Gong and B. Ai, “Low Harmonic MSK/GMSK Backscatter Based on Active Transistor Load,” *IEEE Transactions on Mobile Computing*, vol. 25, no. 9, pp. 14531-14547, 2026. [<a href="https://ieeexplore.ieee.org/document/11478806" target="_blank">manuscript</a>]
 >Z. Cui, G. Wang, M. Liu, B. Ai and T.Q.S. Quek, “Wavy Signals and Striped Constellations for Backscatter Communications: Origins and Solutions,” *IEEE Transactions on Wireless Communications*, vol. 23, no. 10, pp. 12815–12829, 2024. [<a href="https://ieeexplore.ieee.org/document/10528254" target="_blank">manuscript</a>]
   
 ---
