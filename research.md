@@ -32,7 +32,7 @@ is_contact: true
 	</figure>
 
     - Low-harmonic MSK/GMSK backscatter based on active transistor loads
-
+  
   		As IoT deployment density increases, spectrum-efficient backscatter communication becomes essential for accommodating more devices within limited frequency resources. Traditional backscatter devices modulate the incident RF carrier by switching between discrete antenna loads. These abrupt impedance changes generate higher-order harmonics, increasing bandwidth occupancy and interference to other users. This work aims to design and implement backscatter devices that support low-harmonic, spectrum-efficient modulation. We employ an active transistor as the antenna termination to provide continuously controllable load impedance, enabling smooth adjustment of the reflected signal’s amplitude and phase through appropriate control voltages. Building on this hardware design, we develop Minimum Shift Keying (MSK) and Gaussian Minimum Shift Keying (GMSK) backscatter modulation, with a low-complexity look-up table (LUT) implementation for generating the required transistor control waveforms. Experimental results demonstrate third-harmonic suppression of 29.5 dB and 30.1 dB for MSK and GMSK, respectively, compared with approximately 9.5 dB for conventional square-wave backscatter. These results demonstrate the potential of continuous impedance control and waveform design to reduce interference and enable more spectrum-efficient backscatter systems.
 <figure style="text-align:center;">
     <img class='center' 
@@ -43,9 +43,6 @@ is_contact: true
         Spectrum of the low harmonic MSK/GMSK backscatter.
     </figcaption>
 </figure>
-<!-- 
-For more information, please refer to:
->Y. Yang, M. Liu, G. Wang, R. Xu, W. Gong and B. Ai, “Low Harmonic MSK/GMSK Backscatter Based on Active Transistor Load,” *IEEE Transactions on Mobile Computing*, vol. 25, no. 9, pp. 14531-14547, 2026. [<a href="https://ieeexplore.ieee.org/document/11478806" target="_blank">manuscript</a>] -->
 
 	- Adaptive demodulation for wavy striped-shape constellation in mono-static backscatter communications
 
