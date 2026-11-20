@@ -26,18 +26,13 @@ is_contact: true
 	- RF self-interference cancellation (SIC) for mono-static backscatter communications
 
 		The information transmission between a backscatter device (i.e. a "tag" in classic RFID system) and a backscatter interrogator (a.k.a. a "reader") is carried out by changing the reflection status of the incident RF carrier wave in the mono-static backscatter communications. The carrier wave leaking from the Tx to Rx of the reader due to the imperfect isolation of the circulator introduces significant interference in the received RF backscatter signal, causing severe RF self-interference. This RF self-interference constitutes the most prominent performance bottleneck of the mono-static backscatter communication. This project aims to design hardware and algorithms to realize RF self-interference cancellation of the backscatter system. We develop a dual phase-detector guided self-interference cancellation hardware that quickly locates the cancellation point, together with an alternating gradient descent and block-wise greedy search algorithm that jointly optimize the attenuation and phase-shift parameters for fast and accurate cancellation point search. Experimental results show that the implemented RF SIC platform can achieve over 45 dB interference cancellation performance.
-	<figure style="text-align:center;">
-		<img class='center' 
-			src='SIC.png' 
-			alt='Spectrum of a 512 kbps backscatter signal after self RF interference cancellation.' 
-			style="width:90%; max-width:100%; height:auto;" />
-		<figcaption style="color:rgb(60,135,200); text-decoration:underline;">
-			Spectrum of a 512 kbps backscatter signal after self RF interference cancellation.
-		</figcaption>
+	<figure>
+	   	<center><img class='center' src='SIC.png' alt='Spectrum of a 512 kbps backscatter signal after self RF interference cancellation.' style="width:350px;" /></center>
+	   	<center><figcaption><font style="color: rgb(60,135,200)"><U>Spectrum of a 512 kbps backscatter signal after self RF interference cancellation</U></font>.</figcaption></center>
 	</figure>
 
-    - Low-harmonic MSK/GMSK backscatter based on active transistor loads 
-  
+    - Low-harmonic MSK/GMSK backscatter based on active transistor loads
+
   		As IoT deployment density increases, spectrum-efficient backscatter communication becomes essential for accommodating more devices within limited frequency resources. Traditional backscatter devices modulate the incident RF carrier by switching between discrete antenna loads. These abrupt impedance changes generate higher-order harmonics, increasing bandwidth occupancy and interference to other users. This work aims to design and implement backscatter devices that support low-harmonic, spectrum-efficient modulation. We employ an active transistor as the antenna termination to provide continuously controllable load impedance, enabling smooth adjustment of the reflected signal’s amplitude and phase through appropriate control voltages. Building on this hardware design, we develop Minimum Shift Keying (MSK) and Gaussian Minimum Shift Keying (GMSK) backscatter modulation, with a low-complexity look-up table (LUT) implementation for generating the required transistor control waveforms. Experimental results demonstrate third-harmonic suppression of 29.5 dB and 30.1 dB for MSK and GMSK, respectively, compared with approximately 9.5 dB for conventional square-wave backscatter. These results demonstrate the potential of continuous impedance control and waveform design to reduce interference and enable more spectrum-efficient backscatter systems.
 <figure style="text-align:center;">
     <img class='center' 
